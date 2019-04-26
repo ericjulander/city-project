@@ -1,0 +1,28 @@
+{
+  "name": "cityorganizer",
+  "version": "1.0.0",
+  "description": "You are tasked with converting a csv into a markdown file. Reading in US Census data which contains the population for a 1000 cities, grouping the data by Region and State.",
+  "main": "main.js",
+  "dependencies": {
+    "d3-dsv": "^1.0.10",
+    "expect": "^23.6.0",
+    "js-beautify": "^1.8.8"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/city-organizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byuitechops/city-organizer/issues"
+  },
+  "homepage": "https://github.com/byuitechops/city-organizer#readme"
+}

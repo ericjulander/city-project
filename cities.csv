@@ -1,0 +1,1001 @@
+REGION,STATE,CITY,POPULATION
+Northeast,New York,"New York, NY",8622698
+Pacific,California,"Los Angeles, CA",3999759
+Midwest,Illinois,"Chicago, IL",2716450
+South,Texas,"Houston, TX",2312717
+Mountain,Arizona,"Phoenix, AZ",1626078
+Northeast,Pennsylvania,"Philadelphia, PA",1580863
+South,Texas,"San Antonio, TX",1511946
+Pacific,California,"San Diego, CA",1419516
+South,Texas,"Dallas, TX",1341075
+Pacific,California,"San Jose, CA",1035317
+South,Texas,"Austin, TX",950715
+South,Florida,"Jacksonville, FL",892062
+Pacific,California,"San Francisco, CA",884363
+Midwest,Ohio,"Columbus, OH",879170
+South,Texas,"Fort Worth, TX",874168
+South,North Carolina,"Charlotte, NC",859035
+Pacific,Washington,"Seattle, WA",724745
+Mountain,Colorado,"Denver, CO",704621
+Northeast,Massachusetts,"Boston, MA",685094
+South,Texas,"El Paso, TX",683577
+Midwest,Michigan,"Detroit, MI",673104
+South,Tennessee,"Memphis, TN",652236
+Pacific,Oregon,"Portland, OR",647805
+South,Oklahoma,"Oklahoma City, OK",643648
+Mountain,Nevada,"Las Vegas, NV",641676
+South,Maryland,"Baltimore, MD",611648
+Midwest,Wisconsin,"Milwaukee, WI",595351
+Mountain,New Mexico,"Albuquerque, NM",558545
+Mountain,Arizona,"Tucson, AZ",535677
+Pacific,California,"Fresno, CA",527438
+Pacific,California,"Sacramento, CA",501901
+Mountain,Arizona,"Mesa, AZ",496401
+Midwest,Missouri,"Kansas City, MO",488943
+South,Georgia,"Atlanta, GA",486290
+Pacific,California,"Long Beach, CA",469450
+Midwest,Nebraska,"Omaha, NE",466893
+South,North Carolina,"Raleigh, NC",464758
+Mountain,Colorado,"Colorado Springs, CO",464474
+South,Florida,"Miami, FL",463347
+South,Virginia,"Virginia Beach, VA",450435
+Pacific,California,"Oakland, CA",425195
+Midwest,Minnesota,"Minneapolis, MN",422331
+South,Oklahoma,"Tulsa, OK",401800
+South,Texas,"Arlington, TX",396394
+South,Louisiana,"New Orleans, LA",393292
+Midwest,Kansas,"Wichita, KS",390591
+Midwest,Ohio,"Cleveland, OH",385525
+South,Florida,"Tampa, FL",385430
+Pacific,California,"Bakersfield, CA",380874
+Mountain,Colorado,"Aurora, CO",366623
+Pacific,California,"Anaheim, CA",352497
+Pacific,California,"Santa Ana, CA",334136
+Pacific,California,"Riverside, CA",327728
+South,Texas,"Corpus Christi, TX",325605
+Pacific,California,"Stockton, CA",310496
+Midwest,Missouri,"St. Louis, MO",308626
+Midwest,Minnesota,"St. Paul, MN",306621
+Mountain,Nevada,"Henderson, NV",302539
+Northeast,Pennsylvania,"Pittsburgh, PA",302407
+Midwest,Ohio,"Cincinnati, OH",301301
+South,North Carolina,"Greensboro, NC",290222
+South,Texas,"Plano, TX",286143
+Northeast,New Jersey,"Newark, NJ",285154
+Midwest,Nebraska,"Lincoln, NE",284736
+South,Florida,"Orlando, FL",280257
+Pacific,California,"Irvine, CA",277453
+Midwest,Ohio,"Toledo, OH",276491
+Northeast,New Jersey,"Jersey City, NJ",270753
+Pacific,California,"Chula Vista, CA",270471
+South,North Carolina,"Durham, NC",267743
+Midwest,Indiana,"Fort Wayne, IN",265904
+South,Florida,"St. Petersburg, FL",263255
+South,Texas,"Laredo, TX",260654
+Northeast,New York,"Buffalo, NY",258612
+Midwest,Wisconsin,"Madison, WI",255214
+South,Texas,"Lubbock, TX",253888
+Mountain,Arizona,"Chandler, AZ",253458
+Mountain,Arizona,"Scottsdale, AZ",249950
+Mountain,Nevada,"Reno, NV",248853
+Mountain,Arizona,"Glendale, AZ",246709
+South,Virginia,"Norfolk, VA",244703
+South,North Carolina,"Winston-Salem, NC",244605
+Mountain,Nevada,"North Las Vegas, NV",242975
+South,Virginia,"Chesapeake, VA",240397
+South,Texas,"Irving, TX",240373
+South,Florida,"Hialeah, FL",239673
+South,Texas,"Garland, TX",238002
+Pacific,California,"Fremont, CA",234962
+South,Virginia,"Richmond, VA",227032
+Mountain,Idaho,"Boise City, ID",226570
+Midwest,Iowa,"Des Moines, IA",217521
+Pacific,Washington,"Spokane, WA",217108
+Pacific,California,"San Bernardino, CA",216995
+Pacific,California,"Modesto, CA",214221
+Pacific,Washington,"Tacoma, WA",213418
+Pacific,California,"Fontana, CA",211815
+Pacific,California,"Santa Clarita, CA",210888
+South,Alabama,"Birmingham, AL",210710
+Pacific,California,"Oxnard, CA",210037
+South,North Carolina,"Fayetteville, NC",209889
+Northeast,New York,"Rochester, NY",208046
+Pacific,California,"Moreno Valley, CA",207226
+Pacific,California,"Glendale, CA",203054
+Northeast,New York,"Yonkers, NY",202019
+Pacific,California,"Huntington Beach, CA",201874
+Midwest,Illinois,"Aurora, IL",200965
+Mountain,Utah,"Salt Lake City, UT",200544
+South,Texas,"Amarillo, TX",199826
+South,Alabama,"Montgomery, AL",199518
+Midwest,Michigan,"Grand Rapids, MI",198829
+South,Arkansas,"Little Rock, AR",198606
+Midwest,Ohio,"Akron, OH",197846
+South,Alabama,"Huntsville, AL",194585
+South,Georgia,"Columbus, GA",194058
+South,Texas,"Grand Prairie, TX",193837
+South,Louisiana,"Shreveport, LA",192036
+Midwest,Kansas,"Overland Park, KS",191278
+South,Florida,"Tallahassee, FL",191049
+South,Alabama,"Mobile, AL",190265
+South,Florida,"Port St. Lucie, FL",189344
+South,Tennessee,"Knoxville, TN",187347
+Northeast,Massachusetts,"Worcester, MA",185677
+Mountain,Arizona,"Tempe, AZ",185038
+South,Florida,"Cape Coral, FL",183365
+South,Texas,"Brownsville, TX",183299
+South,Texas,"McKinney, TX",181330
+Northeast,Rhode Island,"Providence, RI",180393
+South,Florida,"Fort Lauderdale, FL",180072
+South,Virginia,"Newport News, VA",179388
+South,Tennessee,"Chattanooga, TN",179139
+Pacific,California,"Rancho Cucamonga, CA",177452
+South,Texas,"Frisco, TX",177286
+Midwest,South Dakota,"Sioux Falls, SD",176888
+Pacific,California,"Oceanside, CA",176193
+Pacific,California,"Ontario, CA",175841
+Pacific,Washington,"Vancouver, WA",175673
+Pacific,California,"Santa Rosa, CA",175269
+Pacific,California,"Garden Grove, CA",174226
+Pacific,California,"Elk Grove, CA",171844
+South,Florida,"Pembroke Pines, FL",170712
+Pacific,Oregon,"Salem, OR",169798
+Pacific,Oregon,"Eugene, OR",168916
+Mountain,Arizona,"Peoria, AZ",168181
+Pacific,California,"Corona, CA",167836
+Midwest,Missouri,"Springfield, MO",167376
+South,Mississippi,"Jackson, MS",166965
+Mountain,Colorado,"Fort Collins, CO",165080
+Pacific,California,"Hayward, CA",160500
+Pacific,California,"Lancaster, CA",160316
+South,Virginia,"Alexandria, VA",160035
+Pacific,California,"Salinas, CA",157596
+Pacific,California,"Palmdale, CA",157519
+Mountain,Colorado,"Lakewood, CO",154958
+Northeast,Massachusetts,"Springfield, MA",154758
+Pacific,California,"Sunnyvale, CA",153656
+South,Florida,"Hollywood, FL",153627
+South,Texas,"Pasadena, TX",153520
+South,Tennessee,"Clarksville, TN",153205
+Pacific,California,"Pomona, CA",152939
+Midwest,Kansas,"Kansas City, KS",152938
+Pacific,California,"Escondido, CA",151969
+Northeast,New Jersey,"Paterson, NJ",148678
+Midwest,Illinois,"Joliet, IL",148462
+Midwest,Illinois,"Naperville, IL",147682
+Midwest,Illinois,"Rockford, IL",147051
+Pacific,California,"Torrance, CA",146758
+Northeast,Connecticut,"Bridgeport, CT",146579
+South,Georgia,"Savannah, GA",146444
+South,Texas,"Killeen, TX",145482
+Pacific,Washington,"Bellevue, WA",144444
+South,Texas,"Mesquite, TX",143949
+Northeast,New York,"Syracuse, NY",143396
+South,Texas,"McAllen, TX",142696
+Pacific,California,"Pasadena, CA",142647
+Pacific,California,"Orange, CA",140560
+Pacific,California,"Fullerton, CA",140392
+Midwest,Ohio,"Dayton, OH",140371
+South,Florida,"Miramar, FL",140328
+Midwest,Kansas,"Olathe, KS",137472
+Mountain,Colorado,"Thornton, CO",136978
+South,Texas,"Waco, TX",136436
+South,Tennessee,"Murfreesboro, TN",136372
+South,Texas,"Denton, TX",136268
+Mountain,Utah,"West Valley City, UT",136170
+South,Texas,"Midland, TX",136089
+South,Texas,"Carrollton, TX",135710
+Pacific,California,"Roseville, CA",135329
+Midwest,Michigan,"Warren, MI",135022
+South,South Carolina,"Charleston, SC",134875
+South,Virginia,"Hampton, VA",134669
+Mountain,Arizona,"Surprise, AZ",134085
+South,South Carolina,"Columbia, SC",133114
+South,Florida,"Coral Springs, FL",133037
+Pacific,California,"Visalia, CA",133010
+Midwest,Michigan,"Sterling Heights, MI",132631
+South,Florida,"Gainesville, FL",132249
+Midwest,Iowa,"Cedar Rapids, IA",132228
+Northeast,Connecticut,"New Haven, CT",131014
+Northeast,Connecticut,"Stamford, CT",130824
+Northeast,New Jersey,"Elizabeth, NJ",130215
+Pacific,California,"Concord, CA",129783
+Pacific,California,"Thousand Oaks, CA",128995
+Pacific,Washington,"Kent, WA",128458
+Pacific,California,"Santa Clara, CA",127134
+Pacific,California,"Simi Valley, CA",126878
+Midwest,Kansas,"Topeka, KS",126587
+South,Texas,"Round Rock, TX",123678
+Northeast,Connecticut,"Hartford, CT",123400
+South,Oklahoma,"Norman, OK",122843
+Pacific,California,"Victorville, CA",122441
+Midwest,North Dakota,"Fargo, ND",122359
+Pacific,California,"Berkeley, CA",122324
+Pacific,California,"Vallejo, CA",122105
+South,Texas,"Abilene, TX",121885
+Midwest,Missouri,"Columbia, MO",121717
+Midwest,Michigan,"Ann Arbor, MI",121477
+Northeast,Pennsylvania,"Allentown, PA",121283
+South,Texas,"Pearland, TX",119940
+South,Texas,"Beaumont, TX",119114
+South,North Carolina,"Wilmington, NC",119045
+Midwest,Indiana,"Evansville, IN",118930
+Mountain,Colorado,"Arvada, CO",118807
+Mountain,Utah,"Provo, UT",117335
+Midwest,Missouri,"Independence, MO",117306
+Midwest,Michigan,"Lansing, MI",116986
+South,Texas,"Odessa, TX",116861
+South,Texas,"Richardson, TX",116783
+Pacific,California,"Fairfield, CA",116266
+Pacific,California,"El Monte, CA",116109
+Midwest,Minnesota,"Rochester, MN",115733
+South,Florida,"Clearwater, FL",115513
+Pacific,California,"Carlsbad, CA",115330
+Midwest,Illinois,"Springfield, IL",114868
+Pacific,California,"Temecula, CA",114327
+Mountain,Utah,"West Jordan, UT",113905
+Pacific,California,"Costa Mesa, CA",113825
+South,Florida,"Miami Gardens, FL",113750
+Northeast,Massachusetts,"Cambridge, MA",113630
+South,Texas,"College Station, TX",113564
+Pacific,California,"Murrieta, CA",113326
+Pacific,California,"Downey, CA",113092
+Midwest,Illinois,"Peoria, IL",112883
+Mountain,Colorado,"Westminster, CO",112812
+Midwest,Illinois,"Elgin, IL",112456
+Pacific,California,"Antioch, CA",111674
+South,Florida,"Palm Bay, FL",111657
+South,North Carolina,"High Point, NC",111513
+Northeast,Massachusetts,"Lowell, MA",111346
+Northeast,New Hampshire,"Manchester, NH",111196
+Mountain,Colorado,"Pueblo, CO",111127
+Pacific,Oregon,"Gresham, OR",111053
+South,South Carolina,"North Charleston, SC",110861
+Pacific,California,"San Buenaventura (Ventura), CA",110790
+Pacific,California,"Inglewood, CA",110598
+South,Florida,"Pompano Beach, FL",110473
+Mountain,Colorado,"Centennial, CO",110250
+South,Florida,"West Palm Beach, FL",110222
+Pacific,Washington,"Everett, WA",110079
+Pacific,California,"Richmond, CA",110040
+Pacific,California,"Clovis, CA",109691
+Mountain,Montana,"Billings, MT",109642
+Northeast,Connecticut,"Waterbury, CT",108629
+South,Oklahoma,"Broken Arrow, OK",108303
+South,Florida,"Lakeland, FL",108054
+Pacific,California,"West Covina, CA",107598
+Mountain,Colorado,"Boulder, CO",107125
+Pacific,California,"Daly City, CA",107074
+Pacific,California,"Santa Maria, CA",107014
+Pacific,Oregon,"Hillsboro, OR",106894
+South,Georgia,"Sandy Springs, GA",106739
+Pacific,California,"Norwalk, CA",106084
+Pacific,California,"Jurupa Valley, CA",106028
+South,Texas,"Lewisville, TX",106021
+Mountain,Colorado,"Greeley, CO",105448
+Midwest,Wisconsin,"Green Bay, WI",105116
+South,Texas,"Tyler, TX",104991
+South,Texas,"League City, TX",104903
+Pacific,California,"Burbank, CA",104834
+Pacific,California,"San Mateo, CA",104748
+South,Texas,"Wichita Falls, TX",104747
+Pacific,California,"El Cajon, CA",103894
+Pacific,California,"Rialto, CA",103562
+Midwest,Iowa,"Davenport, IA",102320
+Midwest,Indiana,"South Bend, IN",102245
+Mountain,New Mexico,"Las Cruces, NM",101712
+Pacific,California,"Vista, CA",101568
+Pacific,Washington,"Renton, WA",101379
+Mountain,Nevada,"Sparks, NV",100888
+South,Texas,"Allen, TX",100685
+South,Alabama,"Tuscaloosa, AL",100287
+South,Texas,"San Angelo, TX",100119
+Pacific,California,"Vacaville, CA",100032
+Mountain,Idaho,"Meridian, ID",99926
+Midwest,Wisconsin,"Kenosha, WI",99877
+South,Virginia,"Roanoke, VA",99837
+Northeast,New York,"Albany, NY",98251
+South,Florida,"Boca Raton, FL",98150
+Pacific,Washington,"Spokane Valley, WA",97847
+Mountain,Utah,"Orem, UT",97839
+Pacific,California,"Compton, CA",97612
+Pacific,Oregon,"Beaverton, OR",97514
+Northeast,Pennsylvania,"Erie, PA",97369
+Midwest,Missouri,"Lee's Summit, MO",97290
+Midwest,Kansas,"Lawrence, KS",96892
+Pacific,Washington,"Federal Way, WA",96690
+Midwest,Michigan,"Flint, MI",96448
+Pacific,California,"San Marcos, CA",96198
+Mountain,New Mexico,"Rio Rancho, NM",96159
+Mountain,Utah,"Sandy, UT",96145
+Pacific,California,"Mission Viejo, CA",96016
+Northeast,Massachusetts,"Brockton, MA",95672
+Mountain,Arizona,"Yuma, AZ",95502
+Pacific,California,"South Gate, CA",95430
+Northeast,Massachusetts,"New Bedford, MA",95120
+Pacific,California,"Hesperia, CA",94859
+South,Georgia,"Roswell, GA",94786
+South,Virginia,"Portsmouth, VA",94572
+Pacific,Oregon,"Bend, OR",94520
+Midwest,Michigan,"Dearborn, MI",94491
+Mountain,Colorado,"Longmont, CO",94341
+South,Florida,"Sunrise, FL",94323
+Northeast,Massachusetts,"Quincy, MA",94166
+Midwest,Michigan,"Livonia, MI",94105
+Northeast,Massachusetts,"Lynn, MA",94063
+South,Florida,"Plantation, FL",93909
+South,Oklahoma,"Lawton, OK",93714
+Pacific,Washington,"Yakima, WA",93667
+Mountain,Idaho,"Nampa, ID",93590
+Pacific,California,"Chico, CA",93293
+Pacific,California,"Carson, CA",92735
+South,Florida,"Miami Beach, FL",92307
+Pacific,California,"Santa Monica, CA",92306
+Midwest,Indiana,"Carmel, IN",92198
+South,North Carolina,"Greenville, NC",92156
+Pacific,California,"Santa Barbara, CA",92101
+South,North Carolina,"Concord, NC",92067
+South,Oklahoma,"Edmond, OK",91950
+South,North Carolina,"Asheville, NC",91902
+Midwest,Indiana,"Fishers, IN",91832
+Pacific,California,"Redding, CA",91794
+Pacific,California,"Westminster, CA",91564
+Pacific,California,"Tracy, CA",90889
+South,Florida,"Deltona, FL",90746
+Pacific,California,"Menifee, CA",90595
+Pacific,California,"San Leandro, CA",90553
+Pacific,California,"Livermore, CA",90295
+South,Texas,"Edinburg, TX",90280
+South,Virginia,"Suffolk, VA",90237
+Pacific,California,"Chino, CA",89797
+Pacific,California,"Indio, CA",89793
+Northeast,Massachusetts,"Fall River, MA",89420
+Pacific,Washington,"Bellingham, WA",89045
+Northeast,Connecticut,"Norwalk, CT",89005
+Northeast,Massachusetts,"Newton, MA",88994
+Pacific,Washington,"Kirkland, WA",88630
+South,Texas,"Sugar Land, TX",88485
+Northeast,Pennsylvania,"Reading, PA",88423
+Northeast,New Hampshire,"Nashua, NH",88341
+South,Arkansas,"Fort Smith, AR",88037
+Pacific,California,"Citrus Heights, CA",87931
+Pacific,California,"Hawthorne, CA",87854
+Midwest,Illinois,"Waukegan, IL",87729
+Midwest,Missouri,"O'Fallon, MO",87597
+Midwest,Illinois,"Champaign, IL",87432
+Mountain,Utah,"Ogden, UT",87031
+Pacific,California,"Whittier, CA",86838
+Pacific,California,"Redwood City, CA",86685
+Northeast,New Jersey,"Clifton, NJ",86607
+South,Florida,"Palm Coast, FL",86516
+Pacific,California,"Newport Beach, CA",86160
+Midwest,Minnesota,"Duluth, MN",86066
+Midwest,Minnesota,"Bloomington, MN",85866
+Pacific,California,"Alhambra, CA",85396
+South,Arkansas,"Fayetteville, AR",85257
+Northeast,Connecticut,"Danbury, CT",85246
+Pacific,California,"Hemet, CA",85160
+Midwest,Indiana,"Bloomington, IN",85071
+Northeast,New Jersey,"Trenton, NJ",84964
+South,Alabama,"Hoover, AL",84920
+South,Florida,"Largo, FL",84754
+South,Texas,"Mission, TX",84424
+Mountain,Utah,"St. George, UT",84405
+South,Texas,"Conroe, TX",84378
+South,Georgia,"Johns Creek, GA",84350
+Pacific,California,"Lake Forest, CA",84293
+Mountain,Arizona,"Avondale, AZ",84025
+South,Texas,"Bryan, TX",84021
+Midwest,Michigan,"Troy, MI",83813
+Mountain,New Mexico,"Santa Fe, NM",83776
+Pacific,California,"Merced, CA",83081
+Pacific,California,"Buena Park, CA",83015
+Pacific,California,"Pleasanton, CA",83007
+Midwest,Iowa,"Sioux City, IA",82514
+South,Florida,"Melbourne, FL",82011
+Pacific,Oregon,"Medford, OR",81780
+Midwest,Michigan,"Westland, MI",81747
+Pacific,Washington,"Kennewick, WA",81607
+South,Texas,"Longview, TX",81522
+Pacific,California,"Mountain View, CA",81438
+Northeast,Massachusetts,"Somerville, MA",81360
+Northeast,Rhode Island,"Cranston, RI",81202
+Midwest,Michigan,"Farmington Hills, MI",81050
+South,Virginia,"Lynchburg, VA",80995
+Pacific,California,"Lakewood, CA",80967
+Northeast,Rhode Island,"Warwick, RI",80871
+Pacific,Washington,"Auburn, WA",80776
+Midwest,Minnesota,"Brooklyn Park, MN",80581
+South,Florida,"Deerfield Beach, FL",80571
+Pacific,California,"Tustin, CA",80498
+Pacific,California,"Chino Hills, CA",80374
+Northeast,Massachusetts,"Lawrence, MA",80162
+Northeast,New York,"New Rochelle, NY",79946
+South,Florida,"Fort Myers, FL",79943
+Mountain,Arizona,"Goodyear, AZ",79858
+Pacific,California,"Napa, CA",79774
+South,Arkansas,"Springdale, AR",79599
+South,Texas,"Pharr, TX",79487
+Pacific,California,"Manteca, CA",79268
+Pacific,California,"Alameda, CA",79177
+Midwest,Ohio,"Parma, OH",79167
+South,Texas,"New Braunfels, TX",79152
+Midwest,Minnesota,"Plymouth, MN",78395
+South,Tennessee,"Franklin, TN",78321
+Pacific,California,"Milpitas, CA",78106
+Pacific,California,"Folsom, CA",78038
+Midwest,Illinois,"Bloomington, IL",77934
+Pacific,California,"Perris, CA",77879
+Pacific,California,"Bellflower, CA",77772
+South,Florida,"Boynton Beach, FL",77702
+Northeast,Pennsylvania,"Scranton, PA",77605
+Midwest,Wisconsin,"Racine, WI",77542
+South,Louisiana,"Lake Charles, LA",77117
+Pacific,California,"Upland, CA",76999
+South,Texas,"Baytown, TX",76804
+Mountain,Colorado,"Loveland, CO",76701
+Mountain,Utah,"Layton, UT",76691
+Midwest,Indiana,"Hammond, IN",76618
+South,North Carolina,"Gastonia, NC",76593
+Midwest,Missouri,"St. Joseph, MO",76442
+Pacific,California,"Baldwin Park, CA",76402
+Midwest,Indiana,"Gary, IN",76008
+Midwest,Michigan,"Wyoming, MI",75938
+Pacific,California,"San Ramon, CA",75931
+South,Arkansas,"Jonesboro, AR",75866
+Midwest,Michigan,"Kalamazoo, MI",75807
+Midwest,Iowa,"Iowa City, IA",75798
+Northeast,Pennsylvania,"Bethlehem, PA",75707
+South,Texas,"Cedar Park, TX",75704
+Pacific,California,"Union City, CA",75343
+South,Georgia,"Warner Robins, GA",74854
+Midwest,Illinois,"Evanston, IL",74756
+Midwest,Wisconsin,"Appleton, WI",74653
+Northeast,New Jersey,"Camden, NJ",74532
+South,Texas,"Temple, TX",74503
+South,Texas,"Missouri City, TX",74497
+Midwest,South Dakota,"Rapid City, SD",74421
+Midwest,Michigan,"Rochester Hills, MI",74205
+Pacific,California,"Rancho Cordova, CA",73563
+Pacific,California,"Turlock, CA",73556
+Mountain,Montana,"Missoula, MT",73340
+Midwest,Michigan,"Southfield, MI",73208
+South,Georgia,"Albany, GA",73179
+South,South Carolina,"Rock Hill, SC",73068
+Pacific,Washington,"Pasco, WA",73013
+Midwest,North Dakota,"Bismarck, ND",72865
+Northeast,Connecticut,"New Britain, CT",72710
+Midwest,Wisconsin,"Waukesha, WI",72489
+South,North Carolina,"Jacksonville, NC",72447
+Midwest,Indiana,"Lafayette, IN",72390
+Midwest,Illinois,"Decatur, IL",72174
+Pacific,California,"Pittsburg, CA",72141
+Northeast,Rhode Island,"Pawtucket, RI",72001
+Mountain,Arizona,"Flagstaff, AZ",71975
+South,Florida,"Lauderhill, FL",71970
+South,Mississippi,"Gulfport, MS",71822
+Pacific,California,"Redlands, CA",71554
+South,Maryland,"Frederick, MD",71408
+Northeast,New Jersey,"Passaic, NJ",71247
+South,Delaware,"Wilmington, DE",71106
+South,Florida,"Kissimmee, FL",71104
+Pacific,California,"Lynwood, CA",71099
+Midwest,Minnesota,"Maple Grove, MN",71066
+Mountain,Utah,"South Jordan, UT",70954
+South,Florida,"Weston, FL",70944
+Midwest,Ohio,"Canton, OH",70909
+South,Texas,"Georgetown, TX",70685
+South,Texas,"North Richland Hills, TX",70441
+Northeast,New Jersey,"Union City, NJ",70387
+Midwest,Missouri,"St. Charles, MO",70329
+South,Florida,"Homestead, FL",69907
+Pacific,California,"Walnut Creek, CA",69773
+Midwest,Minnesota,"Woodbury, MN",69756
+Pacific,California,"Davis, CA",68986
+South,Texas,"Mansfield, TX",68928
+Pacific,Washington,"Marysville, WA",68864
+South,Florida,"Delray Beach, FL",68749
+South,Maryland,"Gaithersburg, MD",68710
+Northeast,New York,"Mount Vernon, NY",68703
+Midwest,Indiana,"Muncie, IN",68625
+Midwest,Wisconsin,"Eau Claire, WI",68587
+South,Louisiana,"Bossier City, LA",68554
+Mountain,Arizona,"Buckeye, AZ",68453
+South,Maryland,"Rockville, MD",68401
+Mountain,Colorado,"Broomfield, CO",68341
+Pacific,California,"Yorba Linda, CA",68229
+South,South Carolina,"Greenville, SC",68219
+South,Alabama,"Dothan, AL",68202
+South,Florida,"Daytona Beach, FL",68055
+Midwest,Minnesota,"St. Cloud, MN",67984
+Pacific,California,"Redondo Beach, CA",67908
+Pacific,California,"Camarillo, CA",67845
+Midwest,Iowa,"Waterloo, IA",67587
+South,Louisiana,"Kenner, LA",67451
+Pacific,California,"South San Francisco, CA",67429
+Northeast,New Jersey,"Bayonne, NJ",67186
+Pacific,California,"Palo Alto, CA",67178
+South,Texas,"Victoria, TX",67106
+South,Kentucky,"Bowling Green, KY",67067
+Northeast,Maine,"Portland, ME",66882
+Pacific,California,"Yuba City, CA",66860
+South,Tennessee,"Jackson, TN",66847
+Midwest,Wisconsin,"Oshkosh, WI",66665
+Midwest,Minnesota,"Eagan, MN",66627
+Midwest,Iowa,"Ames, IA",66498
+South,Arkansas,"Rogers, AR",66430
+Pacific,California,"Lake Elsinore, CA",66411
+South,Tennessee,"Johnson City, TN",66391
+Pacific,California,"Laguna Niguel, CA",66334
+South,Florida,"North Port, FL",66300
+South,Arkansas,"North Little Rock, AR",65911
+Pacific,California,"Lodi, CA",65884
+South,Georgia,"Alpharetta, GA",65799
+South,Arkansas,"Conway, AR",65782
+South,Florida,"Tamarac, FL",65669
+Northeast,New York,"Schenectady, NY",65625
+Midwest,Iowa,"West Des Moines, IA",65608
+Midwest,Kansas,"Shawnee, KS",65513
+Pacific,California,"Madera, CA",65508
+South,Texas,"Harlingen, TX",65467
+Northeast,New Jersey,"East Orange, NJ",65378
+Pacific,California,"San Clemente, CA",65267
+Pacific,California,"Santa Cruz, CA",65021
+Pacific,California,"Rocklin, CA",64838
+Midwest,Ohio,"Youngstown, OH",64604
+Midwest,Minnesota,"Blaine, MN",64557
+Pacific,Washington,"Sammamish, WA",64548
+Midwest,Minnesota,"Eden Prairie, MN",64400
+Midwest,Wisconsin,"Janesville, WI",64359
+Pacific,Washington,"Redmond, WA",64291
+South,Alabama,"Auburn, AL",63973
+Pacific,California,"Tulare, CA",63855
+Midwest,Ohio,"Lorain, OH",63841
+Midwest,Minnesota,"Lakeville, MN",63748
+Northeast,Massachusetts,"Haverhill, MA",63639
+Mountain,Wyoming,"Cheyenne, WY",63624
+Pacific,California,"Pico Rivera, CA",63522
+South,Texas,"Pflugerville, TX",63359
+Pacific,California,"Eastvale, CA",63211
+South,Florida,"Port Orange, FL",63203
+Pacific,California,"Montebello, CA",63192
+Pacific,California,"Encinitas, CA",63184
+South,Texas,"San Marcos, TX",63071
+South,Texas,"Rowlett, TX",62868
+Mountain,Utah,"Lehi, UT",62712
+Midwest,Minnesota,"Coon Rapids, MN",62656
+Mountain,Colorado,"Grand Junction, CO",62475
+Pacific,California,"La Habra, CA",62466
+Northeast,Massachusetts,"Waltham, MA",62442
+Pacific,California,"Brentwood, CA",62433
+Midwest,Iowa,"Ankeny, IA",62416
+Pacific,Oregon,"Springfield, OR",62353
+Midwest,Iowa,"Council Bluffs, IA",62316
+South,Florida,"North Miami, FL",62225
+Midwest,Ohio,"Hamilton, OH",62092
+Midwest,Indiana,"Noblesville, IN",61882
+South,Oklahoma,"Moore, OK",61523
+Midwest,Minnesota,"Burnsville, MN",61439
+Pacific,California,"National City, CA",61363
+Midwest,Michigan,"Taylor, MI",61276
+Northeast,Massachusetts,"Malden, MA",61246
+South,Florida,"Doral, FL",61130
+Mountain,Idaho,"Idaho Falls, ID",61076
+South,Georgia,"Marietta, GA",61048
+Pacific,California,"Monterey Park, CA",61044
+South,Florida,"Coconut Creek, FL",61010
+Pacific,California,"Dublin, CA",60939
+Pacific,California,"Petaluma, CA",60870
+Pacific,California,"Cupertino, CA",60777
+Midwest,Indiana,"Terre Haute, IN",60774
+Northeast,New York,"Utica, NY",60635
+Northeast,New Jersey,"Vineland, NJ",60392
+Pacific,Washington,"Lakewood, WA",60296
+Pacific,California,"Gardena, CA",60224
+Northeast,Connecticut,"Bristol, CT",60223
+Mountain,Utah,"Millcreek, UT",60192
+Pacific,California,"La Mesa, CA",60021
+Pacific,California,"Woodland, CA",60012
+Mountain,Utah,"Taylorsville, UT",59992
+Midwest,Wisconsin,"West Allis, WI",59934
+Northeast,Connecticut,"Meriden, CT",59927
+Midwest,Michigan,"Pontiac, MI",59792
+Midwest,Michigan,"Novi, MI",59715
+Northeast,Pennsylvania,"Lancaster, PA",59708
+Midwest,Michigan,"St. Clair Shores, MI",59635
+South,Kentucky,"Owensboro, KY",59404
+South,Florida,"Sanford, FL",59317
+Midwest,Ohio,"Springfield, OH",59208
+Pacific,California,"Porterville, CA",59145
+Midwest,Michigan,"Royal Oak, MI",59112
+South,Florida,"Ocala, FL",59110
+South,Tennessee,"Bartlett, TN",59102
+Pacific,California,"San Rafael, CA",59070
+Northeast,New York,"White Plains, NY",59047
+Mountain,Montana,"Great Falls, MT",58876
+South,Maryland,"Bowie, MD",58859
+Pacific,California,"Huntington Park, CA",58822
+Pacific,California,"Arcadia, CA",58799
+South,Florida,"Margate, FL",58430
+Midwest,Iowa,"Dubuque, IA",58276
+Midwest,Illinois,"Des Plaines, IL",58193
+Pacific,California,"Santee, CA",58113
+Pacific,Oregon,"Corvallis, OR",57961
+Midwest,Indiana,"Kokomo, IN",57836
+Mountain,Wyoming,"Casper, WY",57814
+Northeast,Massachusetts,"Medford, MA",57797
+Pacific,California,"Gilroy, CA",57664
+South,Tennessee,"Hendersonville, TN",57517
+Midwest,Indiana,"Greenwood, IN",57375
+South,Oklahoma,"Midwest City, OK",57308
+Midwest,Missouri,"St. Peters, MO",57178
+Northeast,Massachusetts,"Taunton, MA",57139
+Northeast,New Jersey,"New Brunswick, NJ",57073
+Midwest,North Dakota,"Grand Forks, ND",57056
+South,Florida,"Sarasota, FL",56994
+South,Georgia,"Smyrna, GA",56685
+Pacific,California,"Diamond Bar, CA",56665
+Northeast,Massachusetts,"Weymouth Town, MA",56664
+South,Florida,"Bradenton, FL",56508
+Pacific,California,"Hanford, CA",56499
+Pacific,California,"Fountain Valley, CA",56313
+Pacific,Washington,"Richland, WA",56243
+Pacific,Washington,"Shoreline, WA",56189
+South,Florida,"Bonita Springs, FL",56088
+South,Georgia,"Valdosta, GA",56085
+Pacific,California,"Novato, CA",55980
+Mountain,Colorado,"Commerce City, CO",55923
+Midwest,Michigan,"Dearborn Heights, MI",55758
+Midwest,Illinois,"Berwyn, IL",55550
+Northeast,Massachusetts,"Chicopee, MA",55515
+South,Texas,"Port Arthur, TX",55498
+Mountain,Arizona,"Casa Grande, AZ",55477
+Pacific,California,"Highland, CA",55342
+Mountain,Idaho,"Pocatello, ID",55193
+Midwest,Ohio,"Kettering, OH",55175
+South,Texas,"Euless, TX",55174
+Northeast,New Jersey,"Hoboken, NJ",55131
+Midwest,Indiana,"Anderson, IN",55076
+South,Florida,"Palm Beach Gardens, FL",55036
+Midwest,Missouri,"Blue Springs, MO",54945
+Pacific,California,"Paramount, CA",54909
+Northeast,Connecticut,"West Haven, CT",54843
+Midwest,Kansas,"Manhattan, KS",54832
+Pacific,California,"Colton, CA",54828
+Mountain,Nevada,"Carson City, NV",54745
+Mountain,Idaho,"Caldwell, ID",54660
+Pacific,California,"Cathedral City, CA",54596
+Pacific,California,"Rosemead, CA",54554
+South,North Carolina,"Rocky Mount, NC",54523
+South,Georgia,"Stonecrest, GA",54471
+Mountain,Arizona,"Lake Havasu City, AZ",54411
+South,Alabama,"Decatur, AL",54405
+South,Virginia,"Harrisonburg, VA",54215
+Pacific,California,"Watsonville, CA",54098
+South,Mississippi,"Southaven, MS",54031
+Northeast,Massachusetts,"Revere, MA",53993
+South,Texas,"Grapevine, TX",53982
+Midwest,Ohio,"Elyria, OH",53883
+Pacific,California,"Yucaipa, CA",53683
+South,Texas,"DeSoto, TX",53568
+Midwest,Kansas,"Lenexa, KS",53553
+South,Georgia,"Brookhaven, GA",53518
+Pacific,California,"West Sacramento, CA",53512
+Pacific,Oregon,"Albany, OR",53503
+Midwest,Nebraska,"Bellevue, NE",53424
+South,Tennessee,"Kingsport, TN",53374
+Midwest,Illinois,"Wheaton, IL",53373
+Pacific,Oregon,"Tigard, OR",53148
+Pacific,California,"Delano, CA",53138
+Midwest,Minnesota,"Minnetonka, MN",53085
+South,North Carolina,"Burlington, NC",53077
+Northeast,Massachusetts,"Peabody, MA",52987
+Pacific,California,"Palm Desert, CA",52932
+South,Florida,"Pinellas Park, FL",52854
+Northeast,New Jersey,"Perth Amboy, NJ",52823
+South,Florida,"Pensacola, FL",52590
+Midwest,Indiana,"Elkhart, IN",52558
+Pacific,California,"Glendora, CA",52445
+Midwest,Minnesota,"Apple Valley, MN",52435
+Midwest,Missouri,"Joplin, MO",52288
+Pacific,California,"Placentia, CA",52157
+Midwest,Minnesota,"Edina, MN",51958
+Midwest,Wisconsin,"La Crosse, WI",51834
+Midwest,Michigan,"Kentwood, MI",51747
+Pacific,California,"Aliso Viejo, CA",51671
+Pacific,Washington,"Burien, WA",51671
+Pacific,Washington,"Olympia, WA",51609
+South,Florida,"Apopka, FL",51564
+Midwest,Missouri,"Florissant, MO",51443
+Midwest,Nebraska,"Grand Island, NE",51390
+Northeast,New Jersey,"Plainfield, NJ",51327
+Midwest,Michigan,"Battle Creek, MI",51286
+South,Florida,"St. Cloud, FL",51282
+Mountain,Utah,"Logan, UT",51115
+South,Florida,"Coral Gables, FL",51095
+Pacific,California,"Cerritos, CA",51020
+Mountain,Idaho,"Coeur d'Alene, ID",50665
+South,Texas,"Galveston, TX",50497
+Northeast,Massachusetts,"Methuen Town, MA",50259
+Midwest,Ohio,"Lakewood, OH",50249
+South,Oklahoma,"Enid, OK",50122
+Pacific,California,"Poway, CA",50041
+Pacific,California,"Azusa, CA",49864
+South,Oklahoma,"Stillwater, OK",49829
+South,Texas,"Wylie, TX",49826
+Pacific,Washington,"Lacey, WA",49748
+South,Georgia,"Dunwoody, GA",49609
+Northeast,New York,"Troy, NY",49565
+South,Texas,"Bedford, TX",49486
+Midwest,Ohio,"Newark, OH",49423
+South,North Carolina,"Wilson, NC",49348
+South,Arkansas,"Bentonville, AR",49298
+Mountain,Utah,"Murray, UT",49295
+Midwest,Ohio,"Cuyahoga Falls, OH",49247
+South,Texas,"Leander, TX",49234
+Mountain,Idaho,"Twin Falls, ID",49202
+Northeast,Pennsylvania,"Harrisburg, PA",49192
+Midwest,Indiana,"Mishawaka, IN",49177
+Pacific,California,"La Mirada, CA",49095
+Pacific,California,"Cypress, CA",49064
+Midwest,Minnesota,"St. Louis Park, MN",49029
+South,Alabama,"Madison, AL",48861
+Midwest,Michigan,"East Lansing, MI",48844
+Midwest,Ohio,"Middletown, OH",48823
+Midwest,Michigan,"Portage, MI",48816
+South,North Carolina,"Kannapolis, NC",48806
+Pacific,California,"Rancho Santa Margarita, CA",48793
+South,Texas,"Cedar Hill, TX",48710
+Midwest,Indiana,"Lawrence, IN",48704
+Pacific,California,"Ceres, CA",48697
+Midwest,Michigan,"Saginaw, MI",48677
+South,Texas,"Texas City, TX",48558
+Pacific,California,"Covina, CA",48462
+Northeast,New York,"Niagara Falls, NY",48460
+South,Louisiana,"Monroe, LA",48371
+Midwest,Wisconsin,"Sheboygan, WI",48329
+Midwest,Wisconsin,"Wauwatosa, WI",48277
+Pacific,California,"San Jacinto, CA",48254
+Pacific,California,"Palm Springs, CA",48142
+South,Virginia,"Charlottesville, VA",48019
+Mountain,Arizona,"Maricopa, AZ",48007
+South,West Virginia,"Charleston, WV",47929
+Midwest,North Dakota,"Minot, ND",47822
+Mountain,New Mexico,"Roswell, NM",47775
+Mountain,Colorado,"Littleton, CO",47734
+Mountain,Utah,"Draper, UT",47710
+Pacific,California,"Lincoln, CA",47674
+Midwest,Ohio,"Dublin, OH",47619
+Northeast,Rhode Island,"East Providence, RI",47600
+Midwest,Missouri,"Chesterfield, MO",47588
+Pacific,California,"San Luis Obispo, CA",47541
+Pacific,California,"Newark, CA",47531
+Midwest,Michigan,"Roseville, MI",47501
+Midwest,Indiana,"Jeffersonville, IN",47383
+South,Louisiana,"Alexandria, LA",47334
+South,Texas,"Keller, TX",47266
+Midwest,Ohio,"Euclid, OH",47201
+Midwest,Indiana,"Columbus, IN",47143
+Midwest,Ohio,"Mentor, OH",47121
+South,West Virginia,"Huntington, WV",47079
+Midwest,Kansas,"Salina, KS",46994
+Pacific,California,"Beaumont, CA",46967
+Midwest,Ohio,"Beavercreek, OH",46948
+Midwest,Illinois,"Elmhurst, IL",46662
+Mountain,Montana,"Bozeman, MT",46596
+South,Texas,"Little Elm, TX",46548
+Northeast,Connecticut,"Middletown, CT",46478
+South,Florida,"Ocoee, FL",46402
+South,Mississippi,"Hattiesburg, MS",46377
+Northeast,Massachusetts,"Everett, MA",46324
+Midwest,Indiana,"West Lafayette, IN",46269
+South,Florida,"Titusville, FL",46263
+Midwest,Ohio,"Mansfield, OH",46160
+South,Texas,"Burleson, TX",46145
+South,Mississippi,"Biloxi, MS",45908
+South,Florida,"Fort Pierce, FL",45581
+Pacific,Washington,"Bothell, WA",45533
+Mountain,New Mexico,"Farmington, NM",45450
+Pacific,California,"Coachella, CA",45443
+Northeast,New Jersey,"Hackensack, NJ",45248
+Northeast,New York,"Binghamton, NY",45179
+Pacific,California,"Morgan Hill, CA",45037
+South,Florida,"Oakland Park, FL",45035
+Midwest,Ohio,"Strongsville, OH",44744
+Northeast,Massachusetts,"Attleboro, MA",44590
+Midwest,Ohio,"Cleveland Heights, OH",44562
+South,Tennessee,"Cleveland, TN",44483
+South,Texas,"Haltom City, TX",44417
+Pacific,California,"El Centro, CA",44364
+South,Florida,"Altamonte Springs, FL",44277
+South,Texas,"Rockwall, TX",44208
+South,Florida,"North Lauderdale, FL",44198
+Northeast,Massachusetts,"Barnstable Town, MA",44163
+Northeast,Pennsylvania,"York, PA",44132
+South,Florida,"North Miami Beach, FL",44124
+Mountain,Utah,"Bountiful, UT",44107
+Northeast,Pennsylvania,"Altoona, PA",44098
+Midwest,Iowa,"Urbandale, IA",43592
+Pacific,California,"Lompoc, CA",43542
+South,Florida,"Winter Garden, FL",43536
+South,Texas,"Kyle, TX",43480
+Northeast,Massachusetts,"Salem, MA",43415
+Mountain,Utah,"Riverton, UT",43344
+Pacific,California,"San Bruno, CA",43299
+South,Georgia,"Peachtree Corners, GA",43268
+Midwest,Illinois,"DeKalb, IL",43193
+Midwest,Minnesota,"Moorhead, MN",43122
+Northeast,New Jersey,"Linden, NJ",43056
+Northeast,New Hampshire,"Concord, NH",43019
+South,Arkansas,"Pine Bluff, AR",42984
+Mountain,Arizona,"Sierra Vista, AZ",42912
+Midwest,Missouri,"Jefferson City, MO",42895
+Pacific,California,"Rohnert Park, CA",42838
+South,Florida,"Ormond Beach, FL",42816
+Midwest,Wisconsin,"Fond du Lac, WI",42809
+Pacific,California,"Brea, CA",42777
+Pacific,California,"Bell Gardens, CA",42747
+Mountain,Arizona,"Prescott, AZ",42731
+South,Texas,"The Colony, TX",42721
+South,Tennessee,"Brentwood, TN",42667
+South,South Carolina,"Goose Creek, SC",42619
+Northeast,Massachusetts,"Pittsfield, MA",42591
+Midwest,Ohio,"Fairfield, OH",42566
+Pacific,California,"Rancho Palos Verdes, CA",42364
+Midwest,Minnesota,"Mankato, MN",42264
+Northeast,Vermont,"Burlington, VT",42239
+Midwest,Illinois,"Moline, IL",42231
+Pacific,Washington,"Edmonds, WA",42209
+Midwest,Illinois,"Urbana, IL",41989
+Midwest,Michigan,"Midland, MI",41950
+South,Texas,"Coppell, TX",41941
+South,Texas,"Sherman, TX",41917
+Northeast,Massachusetts,"Beverly, MA",41816
+Northeast,Rhode Island,"Woonsocket, RI",41759
+Pacific,California,"Oakley, CA",41714
+Northeast,Massachusetts,"Westfield, MA",41700
+Midwest,Illinois,"Belleville, IL",41649
+Northeast,Massachusetts,"Leominster, MA",41615
+Midwest,Iowa,"Cedar Falls, IA",41570
+Pacific,California,"Campbell, CA",41544
+South,Virginia,"Manassas, VA",41501
+Northeast,Connecticut,"Shelton, CT",41397
+Midwest,Ohio,"Findlay, OH",41321
+Pacific,California,"La Quinta, CA",41304
+South,Florida,"Winter Haven, FL",41280
+South,Texas,"Huntsville, TX",41277
+South,Virginia,"Danville, VA",41130
+Pacific,Washington,"Bremerton, WA",41041
+Midwest,Ohio,"Grove City, OH",41022
+Pacific,Washington,"Puyallup, WA",41001
+Midwest,Minnesota,"Maplewood, MN",40918
+Midwest,Minnesota,"Shakopee, MN",40893
+Northeast,Pennsylvania,"Wilkes-Barre, PA",40806
+Northeast,Massachusetts,"Fitchburg, MA",40793
+South,Florida,"Oviedo, FL",40785
+Midwest,Kansas,"Hutchinson, KS",40772
+South,Florida,"Greenacres, FL",40719
+South,North Carolina,"Hickory, NC",40611
+Mountain,Colorado,"Brighton, CO",40562
+Mountain,Arizona,"Apache Junction, AZ",40538
+Pacific,California,"San Gabriel, CA",40514
+South,Kentucky,"Covington, KY",40455
+Midwest,Illinois,"Crystal Lake, IL",40421
+South,Georgia,"Gainesville, GA",40359
+South,Texas,"Weslaco, TX",40358
+Pacific,California,"Calexico, CA",40351
+Northeast,Massachusetts,"Holyoke, MA",40341
+Pacific,California,"La Puente, CA",40322
+South,Maryland,"Hagerstown, MD",40306
+Midwest,Illinois,"Quincy, IL",40303
+Midwest,Ohio,"Lancaster, OH",40280
+Mountain,Arizona,"Bullhead City, AZ",40252
+Northeast,Massachusetts,"Chelsea, MA",40227
+South,Texas,"Schertz, TX",40092
+South,South Carolina,"Sumter, SC",39982
+Northeast,Massachusetts,"Marlborough, MA",39873
+South,Alabama,"Florence, AL",39852
+South,Texas,"Friendswood, TX",39839
+South,Florida,"Hallandale Beach, FL",39831
+Midwest,Wisconsin,"New Berlin, WI",39740
+Midwest,Ohio,"Westerville, OH",39737
+Northeast,Massachusetts,"Woburn, MA",39701
+South,Tennessee,"Spring Hill, TN",39602
+Midwest,Ohio,"Warren, OH",39562
+Midwest,Indiana,"Westfield, IN",39493
+South,Texas,"Duncanville, TX",39487
+Northeast,Connecticut,"Norwich, CT",39470
+Mountain,Utah,"Spanish Fork, UT",39443
+Midwest,Missouri,"Wentzville, MO",39414
+Midwest,Iowa,"Marion, IA",39400
+South,Texas,"Lancaster, TX",39386
+South,Maryland,"Annapolis, MD",39321
+Pacific,Oregon,"Keizer, OR",39315
+Pacific,California,"Culver City, CA",39283
+Pacific,California,"Montclair, CA",39276
+Midwest,Ohio,"Delaware, OH",39267
+Mountain,Utah,"Herriman, UT",39224
+Pacific,Oregon,"Lake Oswego, OR",39196
+Pacific,California,"Los Banos, CA",39183
+Midwest,Missouri,"Cape Girardeau, MO",39151
+South,Tennessee,"Germantown, TN",39141
+Pacific,California,"Pacifica, CA",39087
+South,Texas,"Hurst, TX",39051
+Mountain,New Mexico,"Clovis, NM",38962
+Mountain,Colorado,"Northglenn, CO",38928
+South,Georgia,"Milton, GA",38924
+South,Georgia,"Newnan, GA",38909
+Mountain,Utah,"Pleasant Grove, UT",38845
+Midwest,Wisconsin,"Wausau, WI",38739
+South,Florida,"Plant City, FL",38714
+Mountain,Utah,"Roy, UT",38595
+Pacific,California,"Stanton, CA",38528
+Northeast,New Jersey,"Atlantic City, NJ",38429
+Pacific,California,"Hollister, CA",38404
+Pacific,California,"Martinez, CA",38373
+Pacific,Washington,"Lynnwood, WA",38273
+South,Tennessee,"Columbia, TN",38266
+South,Florida,"Aventura, FL",38202
+Midwest,Michigan,"Muskegon, MI",38131
+South,Mississippi,"Tupelo, MS",38114
+Midwest,Illinois,"Rock Island, IL",38110
+South,Florida,"Lake Worth, FL",38107
+Midwest,Wisconsin,"Brookfield, WI",38045
+Midwest,Ohio,"Huber Heights, OH",37986
+South,Mississippi,"Meridian, MS",37940
+South,Oklahoma,"Muskogee, OK",37858
+Midwest,Ohio,"Reynoldsburg, OH",37847
+South,South Carolina,"Florence, SC",37778
+Mountain,New Mexico,"Hobbs, NM",37764
+South,Texas,"Rosenberg, TX",37661
+Pacific,Washington,"Longview, WA",37602
+Pacific,Oregon,"Grants Pass, OR",37579
+South,Delaware,"Dover, DE",37538
+South,South Carolina,"Spartanburg, SC",37498
+Midwest,Illinois,"Park Ridge, IL",37494
+Pacific,Washington,"Issaquah, WA",37487
+South,Mississippi,"Olive Branch, MS",37435
+South,Tennessee,"Gallatin, TN",37351
+South,Texas,"Texarkana, TX",37333
+Northeast,Massachusetts,"Braintree Town, MA",37156
+Midwest,Ohio,"Lima, OH",37149
+South,Texas,"Farmers Branch, TX",37088
+Pacific,California,"West Hollywood, CA",37080
+Pacific,California,"Monrovia, CA",37061
+South,Florida,"Panama City, FL",36986
+South,Texas,"San Juan, TX",36981
+Pacific,California,"Wildomar, CA",36932
+South,Arkansas,"Hot Springs, AR",36915
+Midwest,Wisconsin,"Greenfield, WI",36827
+Pacific,California,"Moorpark, CA",36802
+Midwest,Minnesota,"Cottage Grove, MN",36793
+Midwest,Wisconsin,"Beloit, WI",36773
+Midwest,Indiana,"Portage, IN",36672
+Midwest,Michigan,"Lincoln Park, MI",36655
+South,Florida,"Winter Springs, FL",36635
+Midwest,Illinois,"Calumet City, IL",36633
+South,Florida,"Dunedin, FL",36545
+Midwest,Indiana,"New Albany, IN",36461
+South,Oklahoma,"Bartlesville, OK",36389
+South,Georgia,"Rome, GA",36375
+Pacific,California,"Temple City, CA",36367
+Pacific,Oregon,"Oregon City, OR",36360
+Midwest,Wisconsin,"Oak Creek, WI",36354
+Midwest,Minnesota,"Roseville, MN",36314
+Northeast,Maine,"Lewiston, ME",36221
+South,Alabama,"Phenix City, AL",36219
+South,Oklahoma,"Owasso, OK",36215
+Midwest,Kansas,"Leavenworth, KS",36210
+Midwest,Minnesota,"Richfield, MN",36151
+Midwest,Wisconsin,"Franklin, WI",36143
+South,Georgia,"Tucker, GA",36130
+South,Florida,"Lauderdale Lakes, FL",36069
+Pacific,California,"San Juan Capistrano, CA",36064
+Pacific,California,"Claremont, CA",36015
+South,Texas,"Del Rio, TX",36006
+Midwest,Ohio,"Marion, OH",35997
+Midwest,Ohio,"Hilliard, OH",35939
+Pacific,California,"Manhattan Beach, CA",35924
+South,Texas,"Lufkin, TX",35837
+Midwest,Iowa,"Bettendorf, IA",35813
+Pacific,California,"Bell, CA",35811

@@ -1,0 +1,1001 @@
+REGION,STATE,CITY,POPULATION
+Northeast,New York,New York,8622698
+Pacific,California,Los Angeles,3999759
+Midwest,Illinois,Chicago,2716450
+South,Texas,Houston,2312717
+Mountain,Arizona,Phoenix,1626078
+Northeast,Pennsylvania,Philadelphia,1580863
+South,Texas,San Antonio,1511946
+Pacific,California,San Diego,1419516
+South,Texas,Dallas,1341075
+Pacific,California,San Jose,1035317
+South,Texas,Austin,950715
+South,Florida,Jacksonville,892062
+Pacific,California,San Francisco,884363
+Midwest,Ohio,Columbus,879170
+South,Texas,Fort Worth,874168
+South,North Carolina,Charlotte,859035
+Pacific,Washington,Seattle,724745
+Mountain,Colorado,Denver,704621
+Northeast,Massachusetts,Boston,685094
+South,Texas,El Paso,683577
+Midwest,Michigan,Detroit,673104
+South,Tennessee,Memphis,652236
+Pacific,Oregon,Portland,647805
+South,Oklahoma,Oklahoma City,643648
+Mountain,Nevada,Las Vegas,641676
+South,Maryland,Baltimore,611648
+Midwest,Wisconsin,Milwaukee,595351
+Mountain,New Mexico,Albuquerque,558545
+Mountain,Arizona,Tucson,535677
+Pacific,California,Fresno,527438
+Pacific,California,Sacramento,501901
+Mountain,Arizona,Mesa,496401
+Midwest,Missouri,Kansas City,488943
+South,Georgia,Atlanta,486290
+Pacific,California,Long Beach,469450
+Midwest,Nebraska,Omaha,466893
+South,North Carolina,Raleigh,464758
+Mountain,Colorado,Colorado Springs,464474
+South,Florida,Miami,463347
+South,Virginia,Virginia Beach,450435
+Pacific,California,Oakland,425195
+Midwest,Minnesota,Minneapolis,422331
+South,Oklahoma,Tulsa,401800
+South,Texas,Arlington,396394
+South,Louisiana,New Orleans,393292
+Midwest,Kansas,Wichita,390591
+Midwest,Ohio,Cleveland,385525
+South,Florida,Tampa,385430
+Pacific,California,Bakersfield,380874
+Mountain,Colorado,Aurora,366623
+Pacific,California,Anaheim,352497
+Pacific,California,Santa Ana,334136
+Pacific,California,Riverside,327728
+South,Texas,Corpus Christi,325605
+Pacific,California,Stockton,310496
+Midwest,Missouri,St. Louis,308626
+Midwest,Minnesota,St. Paul,306621
+Mountain,Nevada,Henderson,302539
+Northeast,Pennsylvania,Pittsburgh,302407
+Midwest,Ohio,Cincinnati,301301
+South,North Carolina,Greensboro,290222
+South,Texas,Plano,286143
+Northeast,New Jersey,Newark,285154
+Midwest,Nebraska,Lincoln,284736
+South,Florida,Orlando,280257
+Pacific,California,Irvine,277453
+Midwest,Ohio,Toledo,276491
+Northeast,New Jersey,Jersey City,270753
+Pacific,California,Chula Vista,270471
+South,North Carolina,Durham,267743
+Midwest,Indiana,Fort Wayne,265904
+South,Florida,St. Petersburg,263255
+South,Texas,Laredo,260654
+Northeast,New York,Buffalo,258612
+Midwest,Wisconsin,Madison,255214
+South,Texas,Lubbock,253888
+Mountain,Arizona,Chandler,253458
+Mountain,Arizona,Scottsdale,249950
+Mountain,Nevada,Reno,248853
+Mountain,Arizona,Glendale,246709
+South,Virginia,Norfolk,244703
+South,North Carolina,Winston-Salem,244605
+Mountain,Nevada,North Las Vegas,242975
+South,Virginia,Chesapeake,240397
+South,Texas,Irving,240373
+South,Florida,Hialeah,239673
+South,Texas,Garland,238002
+Pacific,California,Fremont,234962
+South,Virginia,Richmond,227032
+Mountain,Idaho,Boise City,226570
+Midwest,Iowa,Des Moines,217521
+Pacific,Washington,Spokane,217108
+Pacific,California,San Bernardino,216995
+Pacific,California,Modesto,214221
+Pacific,Washington,Tacoma,213418
+Pacific,California,Fontana,211815
+Pacific,California,Santa Clarita,210888
+South,Alabama,Birmingham,210710
+Pacific,California,Oxnard,210037
+South,North Carolina,Fayetteville,209889
+Northeast,New York,Rochester,208046
+Pacific,California,Moreno Valley,207226
+Pacific,California,Glendale,203054
+Northeast,New York,Yonkers,202019
+Pacific,California,Huntington Beach,201874
+Midwest,Illinois,Aurora,200965
+Mountain,Utah,Salt Lake City,200544
+South,Texas,Amarillo,199826
+South,Alabama,Montgomery,199518
+Midwest,Michigan,Grand Rapids,198829
+South,Arkansas,Little Rock,198606
+Midwest,Ohio,Akron,197846
+South,Alabama,Huntsville,194585
+South,Georgia,Columbus,194058
+South,Texas,Grand Prairie,193837
+South,Louisiana,Shreveport,192036
+Midwest,Kansas,Overland Park,191278
+South,Florida,Tallahassee,191049
+South,Alabama,Mobile,190265
+South,Florida,Port St. Lucie,189344
+South,Tennessee,Knoxville,187347
+Northeast,Massachusetts,Worcester,185677
+Mountain,Arizona,Tempe,185038
+South,Florida,Cape Coral,183365
+South,Texas,Brownsville,183299
+South,Texas,McKinney,181330
+Northeast,Rhode Island,Providence,180393
+South,Florida,Fort Lauderdale,180072
+South,Virginia,Newport News,179388
+South,Tennessee,Chattanooga,179139
+Pacific,California,Rancho Cucamonga,177452
+South,Texas,Frisco,177286
+Midwest,South Dakota,Sioux Falls,176888
+Pacific,California,Oceanside,176193
+Pacific,California,Ontario,175841
+Pacific,Washington,Vancouver,175673
+Pacific,California,Santa Rosa,175269
+Pacific,California,Garden Grove,174226
+Pacific,California,Elk Grove,171844
+South,Florida,Pembroke Pines,170712
+Pacific,Oregon,Salem,169798
+Pacific,Oregon,Eugene,168916
+Mountain,Arizona,Peoria,168181
+Pacific,California,Corona,167836
+Midwest,Missouri,Springfield,167376
+South,Mississippi,Jackson,166965
+Mountain,Colorado,Fort Collins,165080
+Pacific,California,Hayward,160500
+Pacific,California,Lancaster,160316
+South,Virginia,Alexandria,160035
+Pacific,California,Salinas,157596
+Pacific,California,Palmdale,157519
+Mountain,Colorado,Lakewood,154958
+Northeast,Massachusetts,Springfield,154758
+Pacific,California,Sunnyvale,153656
+South,Florida,Hollywood,153627
+South,Texas,Pasadena,153520
+South,Tennessee,Clarksville,153205
+Pacific,California,Pomona,152939
+Midwest,Kansas,Kansas City,152938
+Pacific,California,Escondido,151969
+Northeast,New Jersey,Paterson,148678
+Midwest,Illinois,Joliet,148462
+Midwest,Illinois,Naperville,147682
+Midwest,Illinois,Rockford,147051
+Pacific,California,Torrance,146758
+Northeast,Connecticut,Bridgeport,146579
+South,Georgia,Savannah,146444
+South,Texas,Killeen,145482
+Pacific,Washington,Bellevue,144444
+South,Texas,Mesquite,143949
+Northeast,New York,Syracuse,143396
+South,Texas,McAllen,142696
+Pacific,California,Pasadena,142647
+Pacific,California,Orange,140560
+Pacific,California,Fullerton,140392
+Midwest,Ohio,Dayton,140371
+South,Florida,Miramar,140328
+Midwest,Kansas,Olathe,137472
+Mountain,Colorado,Thornton,136978
+South,Texas,Waco,136436
+South,Tennessee,Murfreesboro,136372
+South,Texas,Denton,136268
+Mountain,Utah,West Valley City,136170
+South,Texas,Midland,136089
+South,Texas,Carrollton,135710
+Pacific,California,Roseville,135329
+Midwest,Michigan,Warren,135022
+South,South Carolina,Charleston,134875
+South,Virginia,Hampton,134669
+Mountain,Arizona,Surprise,134085
+South,South Carolina,Columbia,133114
+South,Florida,Coral Springs,133037
+Pacific,California,Visalia,133010
+Midwest,Michigan,Sterling Heights,132631
+South,Florida,Gainesville,132249
+Midwest,Iowa,Cedar Rapids,132228
+Northeast,Connecticut,New Haven,131014
+Northeast,Connecticut,Stamford,130824
+Northeast,New Jersey,Elizabeth,130215
+Pacific,California,Concord,129783
+Pacific,California,Thousand Oaks,128995
+Pacific,Washington,Kent,128458
+Pacific,California,Santa Clara,127134
+Pacific,California,Simi Valley,126878
+Midwest,Kansas,Topeka,126587
+South,Texas,Round Rock,123678
+Northeast,Connecticut,Hartford,123400
+South,Oklahoma,Norman,122843
+Pacific,California,Victorville,122441
+Midwest,North Dakota,Fargo,122359
+Pacific,California,Berkeley,122324
+Pacific,California,Vallejo,122105
+South,Texas,Abilene,121885
+Midwest,Missouri,Columbia,121717
+Midwest,Michigan,Ann Arbor,121477
+Northeast,Pennsylvania,Allentown,121283
+South,Texas,Pearland,119940
+South,Texas,Beaumont,119114
+South,North Carolina,Wilmington,119045
+Midwest,Indiana,Evansville,118930
+Mountain,Colorado,Arvada,118807
+Mountain,Utah,Provo,117335
+Midwest,Missouri,Independence,117306
+Midwest,Michigan,Lansing,116986
+South,Texas,Odessa,116861
+South,Texas,Richardson,116783
+Pacific,California,Fairfield,116266
+Pacific,California,El Monte,116109
+Midwest,Minnesota,Rochester,115733
+South,Florida,Clearwater,115513
+Pacific,California,Carlsbad,115330
+Midwest,Illinois,Springfield,114868
+Pacific,California,Temecula,114327
+Mountain,Utah,West Jordan,113905
+Pacific,California,Costa Mesa,113825
+South,Florida,Miami Gardens,113750
+Northeast,Massachusetts,Cambridge,113630
+South,Texas,College Station,113564
+Pacific,California,Murrieta,113326
+Pacific,California,Downey,113092
+Midwest,Illinois,Peoria,112883
+Mountain,Colorado,Westminster,112812
+Midwest,Illinois,Elgin,112456
+Pacific,California,Antioch,111674
+South,Florida,Palm Bay,111657
+South,North Carolina,High Point,111513
+Northeast,Massachusetts,Lowell,111346
+Northeast,New Hampshire,Manchester,111196
+Mountain,Colorado,Pueblo,111127
+Pacific,Oregon,Gresham,111053
+South,South Carolina,North Charleston,110861
+Pacific,California,San Buenaventura (Ventura),110790
+Pacific,California,Inglewood,110598
+South,Florida,Pompano Beach,110473
+Mountain,Colorado,Centennial,110250
+South,Florida,West Palm Beach,110222
+Pacific,Washington,Everett,110079
+Pacific,California,Richmond,110040
+Pacific,California,Clovis,109691
+Mountain,Montana,Billings,109642
+Northeast,Connecticut,Waterbury,108629
+South,Oklahoma,Broken Arrow,108303
+South,Florida,Lakeland,108054
+Pacific,California,West Covina,107598
+Mountain,Colorado,Boulder,107125
+Pacific,California,Daly City,107074
+Pacific,California,Santa Maria,107014
+Pacific,Oregon,Hillsboro,106894
+South,Georgia,Sandy Springs,106739
+Pacific,California,Norwalk,106084
+Pacific,California,Jurupa Valley,106028
+South,Texas,Lewisville,106021
+Mountain,Colorado,Greeley,105448
+Midwest,Wisconsin,Green Bay,105116
+South,Texas,Tyler,104991
+South,Texas,League City,104903
+Pacific,California,Burbank,104834
+Pacific,California,San Mateo,104748
+South,Texas,Wichita Falls,104747
+Pacific,California,El Cajon,103894
+Pacific,California,Rialto,103562
+Midwest,Iowa,Davenport,102320
+Midwest,Indiana,South Bend,102245
+Mountain,New Mexico,Las Cruces,101712
+Pacific,California,Vista,101568
+Pacific,Washington,Renton,101379
+Mountain,Nevada,Sparks,100888
+South,Texas,Allen,100685
+South,Alabama,Tuscaloosa,100287
+South,Texas,San Angelo,100119
+Pacific,California,Vacaville,100032
+Mountain,Idaho,Meridian,99926
+Midwest,Wisconsin,Kenosha,99877
+South,Virginia,Roanoke,99837
+Northeast,New York,Albany,98251
+South,Florida,Boca Raton,98150
+Pacific,Washington,Spokane Valley,97847
+Mountain,Utah,Orem,97839
+Pacific,California,Compton,97612
+Pacific,Oregon,Beaverton,97514
+Northeast,Pennsylvania,Erie,97369
+Midwest,Missouri,Lee's Summit,97290
+Midwest,Kansas,Lawrence,96892
+Pacific,Washington,Federal Way,96690
+Midwest,Michigan,Flint,96448
+Pacific,California,San Marcos,96198
+Mountain,New Mexico,Rio Rancho,96159
+Mountain,Utah,Sandy,96145
+Pacific,California,Mission Viejo,96016
+Northeast,Massachusetts,Brockton,95672
+Mountain,Arizona,Yuma,95502
+Pacific,California,South Gate,95430
+Northeast,Massachusetts,New Bedford,95120
+Pacific,California,Hesperia,94859
+South,Georgia,Roswell,94786
+South,Virginia,Portsmouth,94572
+Pacific,Oregon,Bend,94520
+Midwest,Michigan,Dearborn,94491
+Mountain,Colorado,Longmont,94341
+South,Florida,Sunrise,94323
+Northeast,Massachusetts,Quincy,94166
+Midwest,Michigan,Livonia,94105
+Northeast,Massachusetts,Lynn,94063
+South,Florida,Plantation,93909
+South,Oklahoma,Lawton,93714
+Pacific,Washington,Yakima,93667
+Mountain,Idaho,Nampa,93590
+Pacific,California,Chico,93293
+Pacific,California,Carson,92735
+South,Florida,Miami Beach,92307
+Pacific,California,Santa Monica,92306
+Midwest,Indiana,Carmel,92198
+South,North Carolina,Greenville,92156
+Pacific,California,Santa Barbara,92101
+South,North Carolina,Concord,92067
+South,Oklahoma,Edmond,91950
+South,North Carolina,Asheville,91902
+Midwest,Indiana,Fishers,91832
+Pacific,California,Redding,91794
+Pacific,California,Westminster,91564
+Pacific,California,Tracy,90889
+South,Florida,Deltona,90746
+Pacific,California,Menifee,90595
+Pacific,California,San Leandro,90553
+Pacific,California,Livermore,90295
+South,Texas,Edinburg,90280
+South,Virginia,Suffolk,90237
+Pacific,California,Chino,89797
+Pacific,California,Indio,89793
+Northeast,Massachusetts,Fall River,89420
+Pacific,Washington,Bellingham,89045
+Northeast,Connecticut,Norwalk,89005
+Northeast,Massachusetts,Newton,88994
+Pacific,Washington,Kirkland,88630
+South,Texas,Sugar Land,88485
+Northeast,Pennsylvania,Reading,88423
+Northeast,New Hampshire,Nashua,88341
+South,Arkansas,Fort Smith,88037
+Pacific,California,Citrus Heights,87931
+Pacific,California,Hawthorne,87854
+Midwest,Illinois,Waukegan,87729
+Midwest,Missouri,O'Fallon,87597
+Midwest,Illinois,Champaign,87432
+Mountain,Utah,Ogden,87031
+Pacific,California,Whittier,86838
+Pacific,California,Redwood City,86685
+Northeast,New Jersey,Clifton,86607
+South,Florida,Palm Coast,86516
+Pacific,California,Newport Beach,86160
+Midwest,Minnesota,Duluth,86066
+Midwest,Minnesota,Bloomington,85866
+Pacific,California,Alhambra,85396
+South,Arkansas,Fayetteville,85257
+Northeast,Connecticut,Danbury,85246
+Pacific,California,Hemet,85160
+Midwest,Indiana,Bloomington,85071
+Northeast,New Jersey,Trenton,84964
+South,Alabama,Hoover,84920
+South,Florida,Largo,84754
+South,Texas,Mission,84424
+Mountain,Utah,St. George,84405
+South,Texas,Conroe,84378
+South,Georgia,Johns Creek,84350
+Pacific,California,Lake Forest,84293
+Mountain,Arizona,Avondale,84025
+South,Texas,Bryan,84021
+Midwest,Michigan,Troy,83813
+Mountain,New Mexico,Santa Fe,83776
+Pacific,California,Merced,83081
+Pacific,California,Buena Park,83015
+Pacific,California,Pleasanton,83007
+Midwest,Iowa,Sioux City,82514
+South,Florida,Melbourne,82011
+Pacific,Oregon,Medford,81780
+Midwest,Michigan,Westland,81747
+Pacific,Washington,Kennewick,81607
+South,Texas,Longview,81522
+Pacific,California,Mountain View,81438
+Northeast,Massachusetts,Somerville,81360
+Northeast,Rhode Island,Cranston,81202
+Midwest,Michigan,Farmington Hills,81050
+South,Virginia,Lynchburg,80995
+Pacific,California,Lakewood,80967
+Northeast,Rhode Island,Warwick,80871
+Pacific,Washington,Auburn,80776
+Midwest,Minnesota,Brooklyn Park,80581
+South,Florida,Deerfield Beach,80571
+Pacific,California,Tustin,80498
+Pacific,California,Chino Hills,80374
+Northeast,Massachusetts,Lawrence,80162
+Northeast,New York,New Rochelle,79946
+South,Florida,Fort Myers,79943
+Mountain,Arizona,Goodyear,79858
+Pacific,California,Napa,79774
+South,Arkansas,Springdale,79599
+South,Texas,Pharr,79487
+Pacific,California,Manteca,79268
+Pacific,California,Alameda,79177
+Midwest,Ohio,Parma,79167
+South,Texas,New Braunfels,79152
+Midwest,Minnesota,Plymouth,78395
+South,Tennessee,Franklin,78321
+Pacific,California,Milpitas,78106
+Pacific,California,Folsom,78038
+Midwest,Illinois,Bloomington,77934
+Pacific,California,Perris,77879
+Pacific,California,Bellflower,77772
+South,Florida,Boynton Beach,77702
+Northeast,Pennsylvania,Scranton,77605
+Midwest,Wisconsin,Racine,77542
+South,Louisiana,Lake Charles,77117
+Pacific,California,Upland,76999
+South,Texas,Baytown,76804
+Mountain,Colorado,Loveland,76701
+Mountain,Utah,Layton,76691
+Midwest,Indiana,Hammond,76618
+South,North Carolina,Gastonia,76593
+Midwest,Missouri,St. Joseph,76442
+Pacific,California,Baldwin Park,76402
+Midwest,Indiana,Gary,76008
+Midwest,Michigan,Wyoming,75938
+Pacific,California,San Ramon,75931
+South,Arkansas,Jonesboro,75866
+Midwest,Michigan,Kalamazoo,75807
+Midwest,Iowa,Iowa City,75798
+Northeast,Pennsylvania,Bethlehem,75707
+South,Texas,Cedar Park,75704
+Pacific,California,Union City,75343
+South,Georgia,Warner Robins,74854
+Midwest,Illinois,Evanston,74756
+Midwest,Wisconsin,Appleton,74653
+Northeast,New Jersey,Camden,74532
+South,Texas,Temple,74503
+South,Texas,Missouri City,74497
+Midwest,South Dakota,Rapid City,74421
+Midwest,Michigan,Rochester Hills,74205
+Pacific,California,Rancho Cordova,73563
+Pacific,California,Turlock,73556
+Mountain,Montana,Missoula,73340
+Midwest,Michigan,Southfield,73208
+South,Georgia,Albany,73179
+South,South Carolina,Rock Hill,73068
+Pacific,Washington,Pasco,73013
+Midwest,North Dakota,Bismarck,72865
+Northeast,Connecticut,New Britain,72710
+Midwest,Wisconsin,Waukesha,72489
+South,North Carolina,Jacksonville,72447
+Midwest,Indiana,Lafayette,72390
+Midwest,Illinois,Decatur,72174
+Pacific,California,Pittsburg,72141
+Northeast,Rhode Island,Pawtucket,72001
+Mountain,Arizona,Flagstaff,71975
+South,Florida,Lauderhill,71970
+South,Mississippi,Gulfport,71822
+Pacific,California,Redlands,71554
+South,Maryland,Frederick,71408
+Northeast,New Jersey,Passaic,71247
+South,Delaware,Wilmington,71106
+South,Florida,Kissimmee,71104
+Pacific,California,Lynwood,71099
+Midwest,Minnesota,Maple Grove,71066
+Mountain,Utah,South Jordan,70954
+South,Florida,Weston,70944
+Midwest,Ohio,Canton,70909
+South,Texas,Georgetown,70685
+South,Texas,North Richland Hills,70441
+Northeast,New Jersey,Union City,70387
+Midwest,Missouri,St. Charles,70329
+South,Florida,Homestead,69907
+Pacific,California,Walnut Creek,69773
+Midwest,Minnesota,Woodbury,69756
+Pacific,California,Davis,68986
+South,Texas,Mansfield,68928
+Pacific,Washington,Marysville,68864
+South,Florida,Delray Beach,68749
+South,Maryland,Gaithersburg,68710
+Northeast,New York,Mount Vernon,68703
+Midwest,Indiana,Muncie,68625
+Midwest,Wisconsin,Eau Claire,68587
+South,Louisiana,Bossier City,68554
+Mountain,Arizona,Buckeye,68453
+South,Maryland,Rockville,68401
+Mountain,Colorado,Broomfield,68341
+Pacific,California,Yorba Linda,68229
+South,South Carolina,Greenville,68219
+South,Alabama,Dothan,68202
+South,Florida,Daytona Beach,68055
+Midwest,Minnesota,St. Cloud,67984
+Pacific,California,Redondo Beach,67908
+Pacific,California,Camarillo,67845
+Midwest,Iowa,Waterloo,67587
+South,Louisiana,Kenner,67451
+Pacific,California,South San Francisco,67429
+Northeast,New Jersey,Bayonne,67186
+Pacific,California,Palo Alto,67178
+South,Texas,Victoria,67106
+South,Kentucky,Bowling Green,67067
+Northeast,Maine,Portland,66882
+Pacific,California,Yuba City,66860
+South,Tennessee,Jackson,66847
+Midwest,Wisconsin,Oshkosh,66665
+Midwest,Minnesota,Eagan,66627
+Midwest,Iowa,Ames,66498
+South,Arkansas,Rogers,66430
+Pacific,California,Lake Elsinore,66411
+South,Tennessee,Johnson City,66391
+Pacific,California,Laguna Niguel,66334
+South,Florida,North Port,66300
+South,Arkansas,North Little Rock,65911
+Pacific,California,Lodi,65884
+South,Georgia,Alpharetta,65799
+South,Arkansas,Conway,65782
+South,Florida,Tamarac,65669
+Northeast,New York,Schenectady,65625
+Midwest,Iowa,West Des Moines,65608
+Midwest,Kansas,Shawnee,65513
+Pacific,California,Madera,65508
+South,Texas,Harlingen,65467
+Northeast,New Jersey,East Orange,65378
+Pacific,California,San Clemente,65267
+Pacific,California,Santa Cruz,65021
+Pacific,California,Rocklin,64838
+Midwest,Ohio,Youngstown,64604
+Midwest,Minnesota,Blaine,64557
+Pacific,Washington,Sammamish,64548
+Midwest,Minnesota,Eden Prairie,64400
+Midwest,Wisconsin,Janesville,64359
+Pacific,Washington,Redmond,64291
+South,Alabama,Auburn,63973
+Pacific,California,Tulare,63855
+Midwest,Ohio,Lorain,63841
+Midwest,Minnesota,Lakeville,63748
+Northeast,Massachusetts,Haverhill,63639
+Mountain,Wyoming,Cheyenne,63624
+Pacific,California,Pico Rivera,63522
+South,Texas,Pflugerville,63359
+Pacific,California,Eastvale,63211
+South,Florida,Port Orange,63203
+Pacific,California,Montebello,63192
+Pacific,California,Encinitas,63184
+South,Texas,San Marcos,63071
+South,Texas,Rowlett,62868
+Mountain,Utah,Lehi,62712
+Midwest,Minnesota,Coon Rapids,62656
+Mountain,Colorado,Grand Junction,62475
+Pacific,California,La Habra,62466
+Northeast,Massachusetts,Waltham,62442
+Pacific,California,Brentwood,62433
+Midwest,Iowa,Ankeny,62416
+Pacific,Oregon,Springfield,62353
+Midwest,Iowa,Council Bluffs,62316
+South,Florida,North Miami,62225
+Midwest,Ohio,Hamilton,62092
+Midwest,Indiana,Noblesville,61882
+South,Oklahoma,Moore,61523
+Midwest,Minnesota,Burnsville,61439
+Pacific,California,National City,61363
+Midwest,Michigan,Taylor,61276
+Northeast,Massachusetts,Malden,61246
+South,Florida,Doral,61130
+Mountain,Idaho,Idaho Falls,61076
+South,Georgia,Marietta,61048
+Pacific,California,Monterey Park,61044
+South,Florida,Coconut Creek,61010
+Pacific,California,Dublin,60939
+Pacific,California,Petaluma,60870
+Pacific,California,Cupertino,60777
+Midwest,Indiana,Terre Haute,60774
+Northeast,New York,Utica,60635
+Northeast,New Jersey,Vineland,60392
+Pacific,Washington,Lakewood,60296
+Pacific,California,Gardena,60224
+Northeast,Connecticut,Bristol,60223
+Mountain,Utah,Millcreek,60192
+Pacific,California,La Mesa,60021
+Pacific,California,Woodland,60012
+Mountain,Utah,Taylorsville,59992
+Midwest,Wisconsin,West Allis,59934
+Northeast,Connecticut,Meriden,59927
+Midwest,Michigan,Pontiac,59792
+Midwest,Michigan,Novi,59715
+Northeast,Pennsylvania,Lancaster,59708
+Midwest,Michigan,St. Clair Shores,59635
+South,Kentucky,Owensboro,59404
+South,Florida,Sanford,59317
+Midwest,Ohio,Springfield,59208
+Pacific,California,Porterville,59145
+Midwest,Michigan,Royal Oak,59112
+South,Florida,Ocala,59110
+South,Tennessee,Bartlett,59102
+Pacific,California,San Rafael,59070
+Northeast,New York,White Plains,59047
+Mountain,Montana,Great Falls,58876
+South,Maryland,Bowie,58859
+Pacific,California,Huntington Park,58822
+Pacific,California,Arcadia,58799
+South,Florida,Margate,58430
+Midwest,Iowa,Dubuque,58276
+Midwest,Illinois,Des Plaines,58193
+Pacific,California,Santee,58113
+Pacific,Oregon,Corvallis,57961
+Midwest,Indiana,Kokomo,57836
+Mountain,Wyoming,Casper,57814
+Northeast,Massachusetts,Medford,57797
+Pacific,California,Gilroy,57664
+South,Tennessee,Hendersonville,57517
+Midwest,Indiana,Greenwood,57375
+South,Oklahoma,Midwest City,57308
+Midwest,Missouri,St. Peters,57178
+Northeast,Massachusetts,Taunton,57139
+Northeast,New Jersey,New Brunswick,57073
+Midwest,North Dakota,Grand Forks,57056
+South,Florida,Sarasota,56994
+South,Georgia,Smyrna,56685
+Pacific,California,Diamond Bar,56665
+Northeast,Massachusetts,Weymouth Town,56664
+South,Florida,Bradenton,56508
+Pacific,California,Hanford,56499
+Pacific,California,Fountain Valley,56313
+Pacific,Washington,Richland,56243
+Pacific,Washington,Shoreline,56189
+South,Florida,Bonita Springs,56088
+South,Georgia,Valdosta,56085
+Pacific,California,Novato,55980
+Mountain,Colorado,Commerce City,55923
+Midwest,Michigan,Dearborn Heights,55758
+Midwest,Illinois,Berwyn,55550
+Northeast,Massachusetts,Chicopee,55515
+South,Texas,Port Arthur,55498
+Mountain,Arizona,Casa Grande,55477
+Pacific,California,Highland,55342
+Mountain,Idaho,Pocatello,55193
+Midwest,Ohio,Kettering,55175
+South,Texas,Euless,55174
+Northeast,New Jersey,Hoboken,55131
+Midwest,Indiana,Anderson,55076
+South,Florida,Palm Beach Gardens,55036
+Midwest,Missouri,Blue Springs,54945
+Pacific,California,Paramount,54909
+Northeast,Connecticut,West Haven,54843
+Midwest,Kansas,Manhattan,54832
+Pacific,California,Colton,54828
+Mountain,Nevada,Carson City,54745
+Mountain,Idaho,Caldwell,54660
+Pacific,California,Cathedral City,54596
+Pacific,California,Rosemead,54554
+South,North Carolina,Rocky Mount,54523
+South,Georgia,Stonecrest,54471
+Mountain,Arizona,Lake Havasu City,54411
+South,Alabama,Decatur,54405
+South,Virginia,Harrisonburg,54215
+Pacific,California,Watsonville,54098
+South,Mississippi,Southaven,54031
+Northeast,Massachusetts,Revere,53993
+South,Texas,Grapevine,53982
+Midwest,Ohio,Elyria,53883
+Pacific,California,Yucaipa,53683
+South,Texas,DeSoto,53568
+Midwest,Kansas,Lenexa,53553
+South,Georgia,Brookhaven,53518
+Pacific,California,West Sacramento,53512
+Pacific,Oregon,Albany,53503
+Midwest,Nebraska,Bellevue,53424
+South,Tennessee,Kingsport,53374
+Midwest,Illinois,Wheaton,53373
+Pacific,Oregon,Tigard,53148
+Pacific,California,Delano,53138
+Midwest,Minnesota,Minnetonka,53085
+South,North Carolina,Burlington,53077
+Northeast,Massachusetts,Peabody,52987
+Pacific,California,Palm Desert,52932
+South,Florida,Pinellas Park,52854
+Northeast,New Jersey,Perth Amboy,52823
+South,Florida,Pensacola,52590
+Midwest,Indiana,Elkhart,52558
+Pacific,California,Glendora,52445
+Midwest,Minnesota,Apple Valley,52435
+Midwest,Missouri,Joplin,52288
+Pacific,California,Placentia,52157
+Midwest,Minnesota,Edina,51958
+Midwest,Wisconsin,La Crosse,51834
+Midwest,Michigan,Kentwood,51747
+Pacific,California,Aliso Viejo,51671
+Pacific,Washington,Burien,51671
+Pacific,Washington,Olympia,51609
+South,Florida,Apopka,51564
+Midwest,Missouri,Florissant,51443
+Midwest,Nebraska,Grand Island,51390
+Northeast,New Jersey,Plainfield,51327
+Midwest,Michigan,Battle Creek,51286
+South,Florida,St. Cloud,51282
+Mountain,Utah,Logan,51115
+South,Florida,Coral Gables,51095
+Pacific,California,Cerritos,51020
+Mountain,Idaho,Coeur d'Alene,50665
+South,Texas,Galveston,50497
+Northeast,Massachusetts,Methuen Town,50259
+Midwest,Ohio,Lakewood,50249
+South,Oklahoma,Enid,50122
+Pacific,California,Poway,50041
+Pacific,California,Azusa,49864
+South,Oklahoma,Stillwater,49829
+South,Texas,Wylie,49826
+Pacific,Washington,Lacey,49748
+South,Georgia,Dunwoody,49609
+Northeast,New York,Troy,49565
+South,Texas,Bedford,49486
+Midwest,Ohio,Newark,49423
+South,North Carolina,Wilson,49348
+South,Arkansas,Bentonville,49298
+Mountain,Utah,Murray,49295
+Midwest,Ohio,Cuyahoga Falls,49247
+South,Texas,Leander,49234
+Mountain,Idaho,Twin Falls,49202
+Northeast,Pennsylvania,Harrisburg,49192
+Midwest,Indiana,Mishawaka,49177
+Pacific,California,La Mirada,49095
+Pacific,California,Cypress,49064
+Midwest,Minnesota,St. Louis Park,49029
+South,Alabama,Madison,48861
+Midwest,Michigan,East Lansing,48844
+Midwest,Ohio,Middletown,48823
+Midwest,Michigan,Portage,48816
+South,North Carolina,Kannapolis,48806
+Pacific,California,Rancho Santa Margarita,48793
+South,Texas,Cedar Hill,48710
+Midwest,Indiana,Lawrence,48704
+Pacific,California,Ceres,48697
+Midwest,Michigan,Saginaw,48677
+South,Texas,Texas City,48558
+Pacific,California,Covina,48462
+Northeast,New York,Niagara Falls,48460
+South,Louisiana,Monroe,48371
+Midwest,Wisconsin,Sheboygan,48329
+Midwest,Wisconsin,Wauwatosa,48277
+Pacific,California,San Jacinto,48254
+Pacific,California,Palm Springs,48142
+South,Virginia,Charlottesville,48019
+Mountain,Arizona,Maricopa,48007
+South,West Virginia,Charleston,47929
+Midwest,North Dakota,Minot,47822
+Mountain,New Mexico,Roswell,47775
+Mountain,Colorado,Littleton,47734
+Mountain,Utah,Draper,47710
+Pacific,California,Lincoln,47674
+Midwest,Ohio,Dublin,47619
+Northeast,Rhode Island,East Providence,47600
+Midwest,Missouri,Chesterfield,47588
+Pacific,California,San Luis Obispo,47541
+Pacific,California,Newark,47531
+Midwest,Michigan,Roseville,47501
+Midwest,Indiana,Jeffersonville,47383
+South,Louisiana,Alexandria,47334
+South,Texas,Keller,47266
+Midwest,Ohio,Euclid,47201
+Midwest,Indiana,Columbus,47143
+Midwest,Ohio,Mentor,47121
+South,West Virginia,Huntington,47079
+Midwest,Kansas,Salina,46994
+Pacific,California,Beaumont,46967
+Midwest,Ohio,Beavercreek,46948
+Midwest,Illinois,Elmhurst,46662
+Mountain,Montana,Bozeman,46596
+South,Texas,Little Elm,46548
+Northeast,Connecticut,Middletown,46478
+South,Florida,Ocoee,46402
+South,Mississippi,Hattiesburg,46377
+Northeast,Massachusetts,Everett,46324
+Midwest,Indiana,West Lafayette,46269
+South,Florida,Titusville,46263
+Midwest,Ohio,Mansfield,46160
+South,Texas,Burleson,46145
+South,Mississippi,Biloxi,45908
+South,Florida,Fort Pierce,45581
+Pacific,Washington,Bothell,45533
+Mountain,New Mexico,Farmington,45450
+Pacific,California,Coachella,45443
+Northeast,New Jersey,Hackensack,45248
+Northeast,New York,Binghamton,45179
+Pacific,California,Morgan Hill,45037
+South,Florida,Oakland Park,45035
+Midwest,Ohio,Strongsville,44744
+Northeast,Massachusetts,Attleboro,44590
+Midwest,Ohio,Cleveland Heights,44562
+South,Tennessee,Cleveland,44483
+South,Texas,Haltom City,44417
+Pacific,California,El Centro,44364
+South,Florida,Altamonte Springs,44277
+South,Texas,Rockwall,44208
+South,Florida,North Lauderdale,44198
+Northeast,Massachusetts,Barnstable Town,44163
+Northeast,Pennsylvania,York,44132
+South,Florida,North Miami Beach,44124
+Mountain,Utah,Bountiful,44107
+Northeast,Pennsylvania,Altoona,44098
+Midwest,Iowa,Urbandale,43592
+Pacific,California,Lompoc,43542
+South,Florida,Winter Garden,43536
+South,Texas,Kyle,43480
+Northeast,Massachusetts,Salem,43415
+Mountain,Utah,Riverton,43344
+Pacific,California,San Bruno,43299
+South,Georgia,Peachtree Corners,43268
+Midwest,Illinois,DeKalb,43193
+Midwest,Minnesota,Moorhead,43122
+Northeast,New Jersey,Linden,43056
+Northeast,New Hampshire,Concord,43019
+South,Arkansas,Pine Bluff,42984
+Mountain,Arizona,Sierra Vista,42912
+Midwest,Missouri,Jefferson City,42895
+Pacific,California,Rohnert Park,42838
+South,Florida,Ormond Beach,42816
+Midwest,Wisconsin,Fond du Lac,42809
+Pacific,California,Brea,42777
+Pacific,California,Bell Gardens,42747
+Mountain,Arizona,Prescott,42731
+South,Texas,The Colony,42721
+South,Tennessee,Brentwood,42667
+South,South Carolina,Goose Creek,42619
+Northeast,Massachusetts,Pittsfield,42591
+Midwest,Ohio,Fairfield,42566
+Pacific,California,Rancho Palos Verdes,42364
+Midwest,Minnesota,Mankato,42264
+Northeast,Vermont,Burlington,42239
+Midwest,Illinois,Moline,42231
+Pacific,Washington,Edmonds,42209
+Midwest,Illinois,Urbana,41989
+Midwest,Michigan,Midland,41950
+South,Texas,Coppell,41941
+South,Texas,Sherman,41917
+Northeast,Massachusetts,Beverly,41816
+Northeast,Rhode Island,Woonsocket,41759
+Pacific,California,Oakley,41714
+Northeast,Massachusetts,Westfield,41700
+Midwest,Illinois,Belleville,41649
+Northeast,Massachusetts,Leominster,41615
+Midwest,Iowa,Cedar Falls,41570
+Pacific,California,Campbell,41544
+South,Virginia,Manassas,41501
+Northeast,Connecticut,Shelton,41397
+Midwest,Ohio,Findlay,41321
+Pacific,California,La Quinta,41304
+South,Florida,Winter Haven,41280
+South,Texas,Huntsville,41277
+South,Virginia,Danville,41130
+Pacific,Washington,Bremerton,41041
+Midwest,Ohio,Grove City,41022
+Pacific,Washington,Puyallup,41001
+Midwest,Minnesota,Maplewood,40918
+Midwest,Minnesota,Shakopee,40893
+Northeast,Pennsylvania,Wilkes-Barre,40806
+Northeast,Massachusetts,Fitchburg,40793
+South,Florida,Oviedo,40785
+Midwest,Kansas,Hutchinson,40772
+South,Florida,Greenacres,40719
+South,North Carolina,Hickory,40611
+Mountain,Colorado,Brighton,40562
+Mountain,Arizona,Apache Junction,40538
+Pacific,California,San Gabriel,40514
+South,Kentucky,Covington,40455
+Midwest,Illinois,Crystal Lake,40421
+South,Georgia,Gainesville,40359
+South,Texas,Weslaco,40358
+Pacific,California,Calexico,40351
+Northeast,Massachusetts,Holyoke,40341
+Pacific,California,La Puente,40322
+South,Maryland,Hagerstown,40306
+Midwest,Illinois,Quincy,40303
+Midwest,Ohio,Lancaster,40280
+Mountain,Arizona,Bullhead City,40252
+Northeast,Massachusetts,Chelsea,40227
+South,Texas,Schertz,40092
+South,South Carolina,Sumter,39982
+Northeast,Massachusetts,Marlborough,39873
+South,Alabama,Florence,39852
+South,Texas,Friendswood,39839
+South,Florida,Hallandale Beach,39831
+Midwest,Wisconsin,New Berlin,39740
+Midwest,Ohio,Westerville,39737
+Northeast,Massachusetts,Woburn,39701
+South,Tennessee,Spring Hill,39602
+Midwest,Ohio,Warren,39562
+Midwest,Indiana,Westfield,39493
+South,Texas,Duncanville,39487
+Northeast,Connecticut,Norwich,39470
+Mountain,Utah,Spanish Fork,39443
+Midwest,Missouri,Wentzville,39414
+Midwest,Iowa,Marion,39400
+South,Texas,Lancaster,39386
+South,Maryland,Annapolis,39321
+Pacific,Oregon,Keizer,39315
+Pacific,California,Culver City,39283
+Pacific,California,Montclair,39276
+Midwest,Ohio,Delaware,39267
+Mountain,Utah,Herriman,39224
+Pacific,Oregon,Lake Oswego,39196
+Pacific,California,Los Banos,39183
+Midwest,Missouri,Cape Girardeau,39151
+South,Tennessee,Germantown,39141
+Pacific,California,Pacifica,39087
+South,Texas,Hurst,39051
+Mountain,New Mexico,Clovis,38962
+Mountain,Colorado,Northglenn,38928
+South,Georgia,Milton,38924
+South,Georgia,Newnan,38909
+Mountain,Utah,Pleasant Grove,38845
+Midwest,Wisconsin,Wausau,38739
+South,Florida,Plant City,38714
+Mountain,Utah,Roy,38595
+Pacific,California,Stanton,38528
+Northeast,New Jersey,Atlantic City,38429
+Pacific,California,Hollister,38404
+Pacific,California,Martinez,38373
+Pacific,Washington,Lynnwood,38273
+South,Tennessee,Columbia,38266
+South,Florida,Aventura,38202
+Midwest,Michigan,Muskegon,38131
+South,Mississippi,Tupelo,38114
+Midwest,Illinois,Rock Island,38110
+South,Florida,Lake Worth,38107
+Midwest,Wisconsin,Brookfield,38045
+Midwest,Ohio,Huber Heights,37986
+South,Mississippi,Meridian,37940
+South,Oklahoma,Muskogee,37858
+Midwest,Ohio,Reynoldsburg,37847
+South,South Carolina,Florence,37778
+Mountain,New Mexico,Hobbs,37764
+South,Texas,Rosenberg,37661
+Pacific,Washington,Longview,37602
+Pacific,Oregon,Grants Pass,37579
+South,Delaware,Dover,37538
+South,South Carolina,Spartanburg,37498
+Midwest,Illinois,Park Ridge,37494
+Pacific,Washington,Issaquah,37487
+South,Mississippi,Olive Branch,37435
+South,Tennessee,Gallatin,37351
+South,Texas,Texarkana,37333
+Northeast,Massachusetts,Braintree Town,37156
+Midwest,Ohio,Lima,37149
+South,Texas,Farmers Branch,37088
+Pacific,California,West Hollywood,37080
+Pacific,California,Monrovia,37061
+South,Florida,Panama City,36986
+South,Texas,San Juan,36981
+Pacific,California,Wildomar,36932
+South,Arkansas,Hot Springs,36915
+Midwest,Wisconsin,Greenfield,36827
+Pacific,California,Moorpark,36802
+Midwest,Minnesota,Cottage Grove,36793
+Midwest,Wisconsin,Beloit,36773
+Midwest,Indiana,Portage,36672
+Midwest,Michigan,Lincoln Park,36655
+South,Florida,Winter Springs,36635
+Midwest,Illinois,Calumet City,36633
+South,Florida,Dunedin,36545
+Midwest,Indiana,New Albany,36461
+South,Oklahoma,Bartlesville,36389
+South,Georgia,Rome,36375
+Pacific,California,Temple City,36367
+Pacific,Oregon,Oregon City,36360
+Midwest,Wisconsin,Oak Creek,36354
+Midwest,Minnesota,Roseville,36314
+Northeast,Maine,Lewiston,36221
+South,Alabama,Phenix City,36219
+South,Oklahoma,Owasso,36215
+Midwest,Kansas,Leavenworth,36210
+Midwest,Minnesota,Richfield,36151
+Midwest,Wisconsin,Franklin,36143
+South,Georgia,Tucker,36130
+South,Florida,Lauderdale Lakes,36069
+Pacific,California,San Juan Capistrano,36064
+Pacific,California,Claremont,36015
+South,Texas,Del Rio,36006
+Midwest,Ohio,Marion,35997
+Midwest,Ohio,Hilliard,35939
+Pacific,California,Manhattan Beach,35924
+South,Texas,Lufkin,35837
+Midwest,Iowa,Bettendorf,35813
+Pacific,California,Bell,35811
