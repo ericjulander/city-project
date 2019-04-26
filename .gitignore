@@ -1,0 +1,15 @@
+/node_modules
+
+# Sorry, not really trusting any files because
+# a widely copied repository with many temporary files
+*.*
+# except for the files explicitly declared here
+!README.md
+!package.json
+!package-lock.json
+!cities.csv
+!all.csv
+!nonunique.csv
+!utils.js
+!.gitignore
+!test.js
