@@ -9,9 +9,26 @@ const {
 var csvData = read('cities.csv') //.slice(0, 20)
 
 
+function compareCharacters(c1, c2) {
+	return (c1 - c2) / Math.abs(c1 - c2) || 0;
+}
+
 function sortByName(state1, state2) {
-	var [c1, c2] = [state1.name.charCodeAt(0), state2.name.charCodeAt(0)];
-	return (c1 - c2) / Math.abs(c1 - c2)
+	var length = (state1.name.length < state2.name.length) ? state1.name.length : state2.name.length;
+
+	var pos;
+	for (var i = 0; i < length; i++) {
+		var [c1, c2] = [state1.name.charCodeAt(i), state2.name.charCodeAt(i)];
+		pos = compareCharacters(c1, c2);
+
+		if (pos !== 0) {
+			console.log(pos, String.fromCharCode(c1), String.fromCharCode(c2));
+			break;
+		} else
+			console.log(state1, state2);
+
+	}
+	return pos;
 }
 
 /*
@@ -109,7 +126,7 @@ function organizeCityData(stateName, csv) {
 
 (function main() {
 	var regions = filterReigonData(csvData);
-	write("testoftotallitness", regions);
+	write("testoftotallitness.md", regions);
 })();
 
 // function degubRegionData(regionData) {
