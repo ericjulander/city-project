@@ -34,18 +34,31 @@ function sortByName(string1, string2) {
 }
 
 /*
+ * Sorts items according to a predefined list
+ */
+function sortAccordingToList(list, items) {
+	return items.sort(function (i1, i2) {
+		var [p1, p2] = [list.indexOf(i1), list.indexOf(i2)];
+		console.log(p1, p2)
+		return getPosition(p1, p2);
+	});
+}
+
+/*
  * Creates an array of states based off of region
  */
 function filterReigonData(csv) {
 	var regions = getListOf("REGION", csv);
 	////console.log(regions);
+	var properOrder = ["Pacific", "Mountain", "Midwest", "South", "Northeast"];
 	var regionData = regions.map(function (region) {
 		return {
 			name: region,
 			states: getStateData(region, csv).sort((a, b) => sortByName(a.name, b.name))
 		};
 	});
-
+	regionData = regionData.sort((a, b) => sortAccordingToList(properOrder, regionData.map(a => a.name)));
+	console.log(regionData);
 	return regionData;
 }
 
