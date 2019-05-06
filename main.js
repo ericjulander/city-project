@@ -13,19 +13,19 @@ function compareCharacters(c1, c2) {
 	return (c1 - c2) / Math.abs(c1 - c2) || 0;
 }
 
-function sortByName(state1, state2) {
-	var length = (state1.name.length < state2.name.length) ? state1.name.length : state2.name.length;
+function sortByName(string1, string2) {
+	var length = (string1.length < string2.length) ? string1.length : string2.length;
 
 	var pos;
 	for (var i = 0; i < length; i++) {
-		var [c1, c2] = [state1.name.charCodeAt(i), state2.name.charCodeAt(i)];
+		var [c1, c2] = [string1.charCodeAt(i), string2.charCodeAt(i)];
 		pos = compareCharacters(c1, c2);
 
 		if (pos !== 0) {
 			console.log(pos, String.fromCharCode(c1), String.fromCharCode(c2));
 			break;
 		} else
-			console.log(state1, state2);
+			console.log(string1, string1);
 
 	}
 	return pos;
@@ -40,7 +40,7 @@ function filterReigonData(csv) {
 	var regionData = regions.map(function (region) {
 		return {
 			name: region,
-			states: getStateData(region, csv).sort(sortByName)
+			states: getStateData(region, csv).sort((a, b) => sortByName(a.name, b.name))
 		};
 	});
 
