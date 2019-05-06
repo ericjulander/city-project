@@ -8,25 +8,27 @@ const {
 // slicing down to just the first couple rows to make your life easier for now
 var csvData = read('cities.csv') //.slice(0, 20)
 
-
-function compareCharacters(c1, c2) {
+/*
+ * determines if the 1 item comes before or after the second (1 = after, -1 = before, 0 = same )
+ */
+function getPosition(c1, c2) {
 	return (c1 - c2) / Math.abs(c1 - c2) || 0;
 }
 
+/*
+ * Array function that sorts two strings alphabetically 
+ */
 function sortByName(string1, string2) {
 	var length = (string1.length < string2.length) ? string1.length : string2.length;
-
 	var pos;
+	// loops until it finds the correct placenment for the specified work
 	for (var i = 0; i < length; i++) {
+		// gets the the character at the specified position in the array
 		var [c1, c2] = [string1.charCodeAt(i), string2.charCodeAt(i)];
-		pos = compareCharacters(c1, c2);
-
-		if (pos !== 0) {
-			console.log(pos, String.fromCharCode(c1), String.fromCharCode(c2));
-			break;
-		} else
-			console.log(string1, string1);
-
+		// determines the correct order of the two items
+		pos = getPosition(c1, c2);
+		//leaves the loop when it finds one character that is different and places it
+		if (pos !== 0) break;
 	}
 	return pos;
 }
@@ -114,6 +116,10 @@ function organizeCityData(stateName, csv) {
 		.filter(function (city) {
 			// narrows it down to only the cities for the specififed state
 			return city.state == stateName;
+		}).sort(function (city1, city2) {
+			var [c1, c2] = [city1.population, city2.population];
+			// determines if the 1 population is greater than the other (1 greater, -1 less, 0 same equal)
+			return getPosition(c1, c2);
 		})
 		.map(function (stateArray) {
 			// takes the filtered data and then reorganizes it into the format for markdown and removes the "state" attribute
