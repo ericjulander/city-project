@@ -1,122 +1,126 @@
-const { read , write, prettyprint } = require('./utils')
+const {
+	read,
+	write,
+	prettyprint
+} = require('./utils')
 
 
 // slicing down to just the first couple rows to make your life easier for now
-var csvData = read('cities.csv').slice(0,20) 
+var csvData = read('cities.csv') //.slice(0, 20)
 
 
-/* --- Your awesome code here --- */
-
-//console.log(csvData);
-
+function sortByName(state1, state2) {
+	var [c1, c2] = [state1.name.charCodeAt(0), state2.name.charCodeAt(0)];
+	return (c1 - c2) / Math.abs(c1 - c2)
+}
 
 /*
  * Creates an array of states based off of region
  */
-function filterReigonData(csv){
-	var regions = getListOf("REGION",csv);
-	//console.log(regions);
-	var regionData = regions.map(function(region){
-		return {region: region, states:getStateData(region, csv)};
+function filterReigonData(csv) {
+	var regions = getListOf("REGION", csv);
+	////console.log(regions);
+	var regionData = regions.map(function (region) {
+		return {
+			name: region,
+			states: getStateData(region, csv).sort(sortByName)
+		};
 	});
-	
-	//console.log(regionData[1]);
+
 	return regionData;
 }
 
 /*
- * Gets a list of all availiable values from the given key from the given object
+ * Gets a list of all availiable values from the given key from the specified object
+ * It filters through the given an array and returns a list of the items in it without duplicates
+ * key: the function filters down the array to objects with this key
+ * csv: the object data to filter through and orgagnise 
  */
-function getListOf(key, csv){
-	return csv.map(function(data){
+function getListOf(key, csv) {
+	return csv.map(function (data) {
+		// restructures the array to return only the items from the given key
 		return data[key];
-	}).filter(function(item, index, data){
-		if(data.indexOf(item) == index)
-			return true;
-		return false;
-	});
+	}).filter(removeDuplicates);
+}
+
+/*
+ * Removes duplicate items from an array
+ */
+function removeDuplicates(item, index, data) {
+
+	// removes duplicates from the array
+	if (data.indexOf(item) == index)
+		return true;
+	return false;
 }
 
 /*
  * Creates a "State" Object from the cencus data.
- 
- * The state object  
+ * regionName: name of the region you would like a list of states for
+ * csv: the raw cencus data
  */
-function getStateData(regionName, csv){
-	var area =  csv.filter(function(state){
+function getStateData(regionName, csv) {
+	// filters out the states for the specified region
+	var area = csv.filter(function (state) {
 		return state.REGION === regionName;
-	}).map(function(item){
-		return  item
 	});
-	
+
+	// gets a list of all the states in the region
 	var states = getListOf("STATE", area);
-	var stateData = states.map(function(stateName){
-		return {state: stateName, cities: csv.map(function(data){
-			return {state: data.STATE, name: data.CITY, pop:data.POPULATION};
-	}).filter(function(item, index, data){
-		if(data.indexOf(item) == index)
-			return true;
-		return false;
-	}).filter(function(state){
-		return state.state == stateName;
-	}).map(function(stateArray){
-		return {name: stateArray.name, pop: stateArray.pop}
-		})};
+
+	// reformatsthe data so it fits into the markdown function
+	var stateData = states.map(function (stateName) {
+		return {
+			name: stateName,
+			cities: organizeCityData(stateName, csv)
+		};
 	});
+
 	return stateData;
 }
 
-
-function convertCities(state){
-	console.log(state.cities);
-	var text = "\n## "+state.state;
-	if(state.cities.length > 1){
-	text += state.cities.reduce(function(list, city, index){
-		if(index === 1)
-			list = "\n" + city.name.split(",")[0] + " | " + city.pop;
-		console.log("List", list);
-		return list + "\n" + city.name.split(",")[0] + " | " + city.pop;
-	});
-	}else{
-		text += "\n" + state.cities[0].name.split(",")[0] + " | " + state.cities[0].pop;
-	}
-	
-	return text;
-}
-
-function converStates(region){
-	console.log(region.states);
-	return region.states.reduce(function(list, state, index){
-		console.log(state.state);
-		if(index === 1){
-			list =   convertCities(state);
-			return list;
-		}
-		return list + convertCities(state);
-	});
-}
-
-function convertToMDTable(regionData){
-	return regionData.reduce(function(list, region, index){
-		console.log(region.region, index);
-		if(index === 1)
-			
-			list = "\n# "+region.region+"\n"+converStates(region);
-		return list + "\n# "+region.region+"\n"+converStates(region);
-	});
-}
-
 /*
- * Prints the reigonal data
+ * It gives you an array of cities from the specified date from the csv data
+ * stateName: name of the state to build the cities array for
+ * csv: csv cencus data
  */
-function printStateData(regionData){
-	var text = convertToMDTable(regionData);
-	console.log(text);
+function organizeCityData(stateName, csv) {
+	return csv.map(function (data) {
+			// builds a temp object including the cities state to make filtering easier
+			return {
+				state: data.STATE,
+				name: data.CITY.split(",")[0],
+				population: parseInt(data.POPULATION)
+			};
+		})
+		.filter(removeDuplicates)
+		.filter(function (city) {
+			// narrows it down to only the cities for the specififed state
+			return city.state == stateName;
+		})
+		.map(function (stateArray) {
+			// takes the filtered data and then reorganizes it into the format for markdown and removes the "state" attribute
+			return {
+				name: stateArray.name,
+				population: stateArray.population
+			}
+		});
 }
 
-
-
-(function main(){
+(function main() {
 	var regions = filterReigonData(csvData);
-	printStateData(regions);
+	write("testoftotallitness", regions);
 })();
+
+// function degubRegionData(regionData) {
+// 	return regionData.map(function (i) {
+// 		return {
+// 			r: i.region,
+// 			s: i.states.map(function (i) {
+// 				return i.name + " : " + i.cities.map(function (j) {
+// 					return j.name + " | " + j.population;
+// 				}).join(" , ");
+// 			}).join(" , ")
+// 		}
+// 	});
+// }

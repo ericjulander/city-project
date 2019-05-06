@@ -5,6 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "d3-dsv": "^1.0.10",
+    "eslint": "^5.16.0",
     "expect": "^23.6.0",
     "js-beautify": "^1.8.8"
   },
