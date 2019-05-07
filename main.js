@@ -4,10 +4,6 @@ const {
 	prettyprint
 } = require('./utils')
 
-
-// slicing down to just the first couple rows to make your life easier for now
-var csvData = read('cities.csv') //.slice(0, 20)
-
 /*
  * determines if the 1 item comes before or after the second (1 = after, -1 = before, 0 = same )
  */
@@ -35,15 +31,21 @@ function sortByName(string1, string2) {
 
 /*
  * Sorts items according to a predefined list
+ * list (array): The order items need to go into
+ * items (array): Items that need to be reordered
+ * keys (array) [optional]: Subitems of the item to be compared with the predefined list instead of the entire item itself
+ * 
  */
 function sortAccordingToList(list, items, keys) {
 	var sortedList =
 		list.map(function (listItem) {
+			// filters all items which match the key in the current list-item
 			var match = items.filter(function (item, index) {
+				// if a keys array was provided it will filter out which keys match the current list-item. If no keys were provided, it will compare the current item to the list-item
 				var matches = (Array.isArray(keys)) ? keys[index] === listItem : (item === listItem);
 				return matches;
 			});
-			console.log(match[0].name, listItem);
+
 			return match;
 		});
 	return sortedList;
@@ -54,7 +56,7 @@ function sortAccordingToList(list, items, keys) {
  */
 function filterReigonData(csv) {
 	var regions = getListOf("REGION", csv);
-	////console.log(regions);
+
 	var properOrder = ["Pacific", "Mountain", "Midwest", "South", "Northeast"];
 	var regionData = regions.map(function (region) {
 		return {
@@ -62,7 +64,7 @@ function filterReigonData(csv) {
 			states: getStateData(region, csv).sort((a, b) => sortByName(a.name, b.name))
 		};
 	});
-	console.log("NAMEZ: ", regionData.map(a => a.name))
+
 	// orders the region data properly and then collapses the array
 	regionData = sortAccordingToList(properOrder, regionData, regionData.map(a => a.name)).map(a => a[0]);
 
@@ -150,20 +152,13 @@ function organizeCityData(stateName, csv) {
 		});
 }
 
+/*
+ * Gets the CSV data, formats itm  and then prints it to the markdown file
+ */
 (function main() {
+	// slicing down to just the first couple rows to make your life easier for now
+	var csvData = read('cities.csv') //.slice(0, 20)
 	var regions = filterReigonData(csvData);
-	write("testoftotallitness.md", regions);
+	// write the md file
+	write("cencus-data.md", regions);
 })();
-
-// function degubRegionData(regionData) {
-// 	return regionData.map(function (i) {
-// 		return {
-// 			r: i.region,
-// 			s: i.states.map(function (i) {
-// 				return i.name + " : " + i.cities.map(function (j) {
-// 					return j.name + " | " + j.population;
-// 				}).join(" , ");
-// 			}).join(" , ")
-// 		}
-// 	});
-// }
